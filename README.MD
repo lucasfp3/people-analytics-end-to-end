@@ -157,6 +157,25 @@ Isso pode indicar necessidade de revisão em:
 
 ---
 
+## 🤖 Modelo Preditivo de Turnover
+
+Foi desenvolvido um modelo de Machine Learning utilizando Regressão Logística para estimar a probabilidade de desligamento dos colaboradores.
+
+### Métricas:
+- ROC AUC: 0.81
+- Accuracy: 86%
+
+### Principais fatores de risco:
+- Cargo (Sales Representative, Laboratory Technician)
+- Horas extras
+- Frequência de viagens
+- Tempo desde última promoção
+
+### Aplicação:
+O modelo permite identificar colaboradores com maior probabilidade de desligamento, apoiando estratégias de retenção e priorização de ações de RH.
+
+---
+
 ## 🧠 Diferenciais do Projeto
 
 - Pipeline estruturado (Bronze / Silver / Gold)

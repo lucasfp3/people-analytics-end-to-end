@@ -1,0 +1,1471 @@
+employeenumber;department;jobrole;age;monthlyincome;yearsatcompany;overtime;jobsatisfaction;worklifebalance;flag_turnover;prob_turnover;classificacao_risco_modelo
+622;Research & Development;Laboratory Technician;26;2340;1;Yes;4;1;1;0.9780186413046034;Alto risco
+478;Sales;Sales Representative;21;2174;3;Yes;2;3;1;0.9757340886812255;Alto risco
+1494;Research & Development;Laboratory Technician;24;3172;0;Yes;1;2;1;0.972465009543785;Alto risco
+1273;Sales;Sales Representative;25;1118;1;Yes;4;3;1;0.9671538568762715;Alto risco
+614;Sales;Sales Representative;18;1878;0;Yes;2;3;1;0.9463818876448897;Alto risco
+1487;Sales;Sales Executive;29;5765;5;No;2;1;1;0.9419142140083601;Alto risco
+911;Research & Development;Laboratory Technician;32;2795;1;Yes;4;1;1;0.9387914943630975;Alto risco
+1108;Research & Development;Research Scientist;33;2313;2;Yes;2;3;1;0.9214987442736043;Alto risco
+19;Research & Development;Laboratory Technician;28;2028;4;Yes;3;3;1;0.9133947777204483;Alto risco
+1279;Research & Development;Laboratory Technician;21;2625;2;No;3;1;1;0.9107106163446572;Alto risco
+1968;Sales;Sales Executive;53;10448;2;Yes;1;2;1;0.9066735299939362;Alto risco
+167;Sales;Sales Representative;19;1675;0;Yes;3;2;1;0.9061419491181978;Alto risco
+1758;Sales;Sales Executive;33;8564;0;Yes;1;2;1;0.9001565100927006;Alto risco
+1862;Sales;Sales Executive;32;9907;2;Yes;2;2;1;0.8981471048605033;Alto risco
+590;Human Resources;Human Resources;34;9950;3;Yes;1;3;1;0.8887076549314485;Alto risco
+1504;Research & Development;Laboratory Technician;28;2561;0;No;1;2;1;0.8850516562429057;Alto risco
+959;Sales;Sales Representative;19;2121;1;Yes;2;4;1;0.8829944114846855;Alto risco
+1944;Human Resources;Human Resources;27;2863;1;No;2;3;1;0.8778151168193904;Alto risco
+1844;Human Resources;Human Resources;29;2335;2;Yes;1;3;1;0.8681478037111044;Alto risco
+1649;Research & Development;Laboratory Technician;40;2166;4;Yes;1;1;1;0.8676576807539854;Alto risco
+55;Research & Development;Laboratory Technician;26;2293;1;No;3;2;1;0.8656085170035692;Alto risco
+235;Sales;Sales Representative;19;2325;0;No;1;4;1;0.8649656537346919;Alto risco
+1464;Research & Development;Laboratory Technician;31;3722;2;Yes;4;1;1;0.8588882023401521;Alto risco
+1053;Research & Development;Research Scientist;26;2042;3;Yes;1;3;1;0.8588723351924527;Alto risco
+1439;Sales;Sales Representative;25;4400;3;No;1;3;1;0.8562224119322711;Alto risco
+33;Research & Development;Research Scientist;32;3919;10;Yes;1;3;1;0.8552540689637886;Alto risco
+1624;Sales;Sales Representative;18;1569;0;Yes;4;4;1;0.852363901104731;Alto risco
+960;Research & Development;Laboratory Technician;20;2973;1;No;1;3;1;0.8358121020418969;Alto risco
+1868;Research & Development;Research Scientist;29;2439;1;Yes;4;2;1;0.8348495661511924;Alto risco
+514;Research & Development;Research Scientist;30;2285;1;Yes;4;3;1;0.8243248891038176;Alto risco
+702;Research & Development;Research Scientist;33;3348;10;Yes;1;3;1;0.820961061703938;Alto risco
+299;Sales;Sales Executive;30;6696;6;No;1;2;1;0.8174223493400199;Alto risco
+175;Sales;Sales Executive;31;4559;2;Yes;3;3;1;0.7998731104939636;Alto risco
+163;Sales;Sales Executive;31;6172;7;Yes;3;2;1;0.7969298355511718;Alto risco
+1167;Sales;Sales Executive;42;13758;21;Yes;1;2;1;0.7956814893084428;Alto risco
+554;Sales;Sales Representative;24;3202;5;Yes;2;3;1;0.7940051484803473;Alto risco
+1077;Sales;Sales Representative;20;2323;2;Yes;4;3;1;0.7898771750434522;Alto risco
+1928;Sales;Sales Representative;29;1091;1;No;1;3;1;0.7893338693938824;Alto risco
+1318;Sales;Sales Executive;40;9094;5;Yes;2;3;1;0.7855567972123372;Alto risco
+1427;Sales;Sales Representative;31;1359;1;No;3;3;1;0.7814011324592505;Alto risco
+147;Research & Development;Laboratory Technician;34;6074;9;Yes;3;3;1;0.780739356891561;Alto risco
+1331;Sales;Sales Representative;31;2302;3;Yes;2;4;1;0.7758231842991387;Alto risco
+64;Research & Development;Laboratory Technician;48;5381;1;Yes;3;3;1;0.7697910787898774;Alto risco
+1319;Sales;Sales Executive;52;8446;8;Yes;2;2;1;0.7645627325389768;Alto risco
+1780;Sales;Sales Representative;21;2679;1;No;2;3;1;0.7635639851733963;Alto risco
+137;Research & Development;Laboratory Technician;20;2926;1;Yes;4;3;1;0.7630764020260826;Alto risco
+1198;Research & Development;Laboratory Technician;20;3033;2;No;3;2;0;0.75955123519973;Alto risco
+952;Sales;Sales Representative;25;2413;1;Yes;2;3;1;0.7559386621100544;Alto risco
+1420;Research & Development;Laboratory Technician;49;4284;4;No;1;3;1;0.7545131420966797;Alto risco
+1157;Sales;Sales Executive;33;8224;5;Yes;1;3;1;0.7523848340865544;Alto risco
+2021;Sales;Sales Representative;21;2380;2;Yes;1;3;0;0.7486522672148204;Alto risco
+720;Sales;Sales Executive;24;4577;2;No;3;3;1;0.746062970228951;Alto risco
+65;Research & Development;Laboratory Technician;28;3441;2;Yes;3;2;1;0.744062604364074;Alto risco
+1752;Sales;Sales Representative;29;2760;2;No;2;3;1;0.7407638059632556;Alto risco
+1019;Research & Development;Laboratory Technician;22;2451;4;No;1;2;0;0.7367221937893954;Alto risco
+1645;Sales;Sales Executive;35;5440;2;Yes;4;2;1;0.7351123869453083;Alto risco
+72;Sales;Sales Executive;26;4157;2;Yes;4;2;0;0.731838405362048;Alto risco
+2023;Sales;Sales Representative;23;1790;1;No;1;2;1;0.7312323445903104;Alto risco
+1;Sales;Sales Executive;41;5993;6;Yes;4;1;1;0.7243999205113377;Alto risco
+1037;Sales;Sales Executive;26;4969;2;No;1;3;1;0.7178851352241331;Alto risco
+1767;Research & Development;Research Scientist;43;2437;1;Yes;3;3;1;0.7008437539305173;Alto risco
+485;Sales;Sales Representative;33;2851;1;Yes;3;3;1;0.6970626549749102;Alto risco
+261;Research & Development;Manufacturing Director;35;5916;1;Yes;3;3;1;0.6947753832465144;Alto risco
+1734;Sales;Sales Executive;32;6735;0;No;2;3;1;0.6922379227550101;Alto risco
+1716;Sales;Sales Executive;47;12936;23;No;3;1;1;0.6875635677141394;Alto risco
+1188;Sales;Sales Executive;43;5346;4;No;3;2;1;0.6854096100281601;Alto risco
+593;Research & Development;Laboratory Technician;22;3894;2;No;3;3;1;0.6828210392866773;Alto risco
+816;Research & Development;Laboratory Technician;29;2319;1;Yes;1;3;1;0.6817208632819851;Alto risco
+1016;Research & Development;Research Scientist;20;2600;1;Yes;1;3;1;0.6799132305960524;Alto risco
+608;Human Resources;Human Resources;26;2741;7;Yes;3;2;1;0.6781409617679836;Alto risco
+932;Research & Development;Laboratory Technician;39;2404;2;Yes;1;1;1;0.6769219870605401;Alto risco
+248;Sales;Sales Representative;41;3140;4;Yes;2;2;1;0.6713143463552725;Alto risco
+648;Sales;Sales Representative;30;2033;1;No;1;4;1;0.6684749425233275;Alto risco
+1004;Research & Development;Research Scientist;30;2132;5;Yes;3;3;1;0.6645729776491167;Alto risco
+970;Sales;Sales Executive;37;10609;14;No;3;1;1;0.6629490727422943;Alto risco
+1079;Research & Development;Laboratory Technician;21;1416;1;No;1;2;1;0.6614898213749818;Alto risco
+1684;Research & Development;Laboratory Technician;23;3989;5;Yes;3;3;1;0.657430492295611;Alto risco
+2010;Research & Development;Laboratory Technician;32;2837;6;No;2;3;0;0.6503730054627461;Alto risco
+390;Research & Development;Healthcare Representative;26;4741;5;Yes;1;3;0;0.649582416107071;Alto risco
+1489;Sales;Sales Executive;34;4599;15;Yes;2;4;1;0.6437415751235152;Alto risco
+1961;Sales;Sales Representative;38;2858;1;No;1;2;0;0.6435758876208907;Alto risco
+832;Research & Development;Laboratory Technician;40;5094;1;No;3;3;0;0.6412423096278267;Alto risco
+401;Sales;Sales Executive;26;5828;8;Yes;4;3;1;0.6373426798783187;Alto risco
+502;Sales;Sales Executive;34;5304;5;Yes;4;2;1;0.6357447407309317;Alto risco
+796;Sales;Sales Executive;26;5326;4;No;1;2;1;0.6354767053324233;Alto risco
+1296;Research & Development;Laboratory Technician;28;3867;2;Yes;4;3;0;0.6334694087666971;Alto risco
+1939;Research & Development;Research Scientist;32;2432;4;Yes;3;3;1;0.6334179648904661;Alto risco
+1569;Research & Development;Laboratory Technician;35;2074;1;Yes;1;3;1;0.6299007805611481;Alto risco
+792;Research & Development;Laboratory Technician;26;4364;2;No;4;3;0;0.6267756401053326;Alto risco
+1646;Research & Development;Research Scientist;24;3760;6;Yes;4;3;0;0.6247125762749269;Alto risco
+424;Human Resources;Human Resources;31;6410;2;No;1;3;0;0.622765253243781;Alto risco
+1286;Research & Development;Laboratory Technician;28;2154;4;Yes;3;2;0;0.6209957047878198;Alto risco
+741;Research & Development;Research Scientist;28;2216;7;Yes;2;3;1;0.6190285510549446;Alto risco
+142;Sales;Sales Executive;25;5744;6;Yes;3;3;1;0.6172809698040022;Alto risco
+1533;Research & Development;Laboratory Technician;23;2272;4;No;3;3;0;0.617011300078171;Alto risco
+819;Sales;Sales Executive;33;5324;3;No;1;3;1;0.6164738758180077;Alto risco
+994;Research & Development;Research Scientist;29;2404;0;Yes;1;3;1;0.6160615631722178;Alto risco
+785;Sales;Sales Executive;47;6397;5;Yes;3;3;1;0.6099184372331462;Alto risco
+331;Research & Development;Laboratory Technician;32;3730;3;Yes;3;1;1;0.6079416063608005;Alto risco
+355;Research & Development;Laboratory Technician;31;3479;5;No;2;4;1;0.6067121095429574;Alto risco
+1148;Research & Development;Laboratory Technician;42;4272;1;No;4;3;0;0.606501413419188;Alto risco
+846;Sales;Sales Executive;28;4779;8;Yes;2;3;0;0.6026325846815389;Alto risco
+669;Sales;Sales Representative;21;3447;3;No;3;3;0;0.6008124400025648;Alto risco
+47;Sales;Sales Representative;50;2683;3;Yes;3;3;1;0.5949131459714051;Médio risco
+1878;Research & Development;Research Scientist;22;2472;1;Yes;2;3;1;0.5931720373066324;Médio risco
+1001;Research & Development;Laboratory Technician;27;2811;2;No;2;3;0;0.5904371095549665;Médio risco
+1594;Research & Development;Laboratory Technician;36;5562;3;Yes;1;3;0;0.5883975324532275;Médio risco
+1380;Sales;Sales Executive;35;4614;4;Yes;3;2;1;0.5809067021447081;Médio risco
+243;Research & Development;Laboratory Technician;19;1102;1;No;4;2;1;0.5767608025427013;Médio risco
+1611;Research & Development;Laboratory Technician;45;5769;10;Yes;1;3;0;0.5723469204956783;Médio risco
+1458;Research & Development;Laboratory Technician;39;3646;1;Yes;1;4;1;0.571118553872318;Médio risco
+394;Research & Development;Laboratory Technician;26;2373;3;Yes;2;3;1;0.5686647665039132;Médio risco
+75;Research & Development;Laboratory Technician;35;4014;2;Yes;1;3;0;0.5536026025399264;Médio risco
+1173;Research & Development;Laboratory Technician;24;3597;4;No;2;3;0;0.5521554796688631;Médio risco
+1379;Sales;Sales Representative;31;2785;1;No;4;4;1;0.5499084805232234;Médio risco
+411;Sales;Sales Representative;18;1200;0;No;3;3;0;0.5467757491455644;Médio risco
+2055;Sales;Sales Executive;50;10854;3;Yes;1;3;1;0.5462260817539102;Médio risco
+1522;Research & Development;Research Scientist;29;2362;9;No;1;1;1;0.5443786312643247;Médio risco
+440;Research & Development;Research Scientist;28;3464;3;Yes;4;2;1;0.5443023672364891;Médio risco
+1680;Sales;Sales Representative;20;2728;2;No;1;3;0;0.5432336128620262;Médio risco
+454;Research & Development;Laboratory Technician;29;2119;7;Yes;1;2;1;0.5400382164097148;Médio risco
+392;Research & Development;Laboratory Technician;44;3161;1;Yes;3;1;1;0.5368655560579062;Médio risco
+282;Research & Development;Healthcare Representative;38;6673;1;Yes;1;3;1;0.5365480448759374;Médio risco
+1248;Research & Development;Research Scientist;19;1859;1;Yes;2;4;1;0.5345965261714667;Médio risco
+881;Research & Development;Research Scientist;35;2022;10;Yes;2;2;1;0.5329419242576826;Médio risco
+1747;Human Resources;Human Resources;30;2180;4;No;4;2;1;0.5328767385125917;Médio risco
+527;Sales;Sales Executive;25;4487;5;Yes;4;3;0;0.5264982600655566;Médio risco
+1299;Research & Development;Laboratory Technician;29;3339;7;Yes;3;3;1;0.5238126309235129;Médio risco
+918;Research & Development;Laboratory Technician;58;2380;1;Yes;4;2;1;0.5219575024785519;Médio risco
+27;Sales;Sales Representative;36;3407;5;No;1;3;1;0.5206387483868634;Médio risco
+1158;Research & Development;Laboratory Technician;41;4766;1;Yes;4;3;0;0.5167403061421436;Médio risco
+1036;Sales;Sales Executive;38;6861;1;Yes;4;3;0;0.5132672484088211;Médio risco
+991;Research & Development;Research Scientist;31;2321;3;Yes;1;3;1;0.5099964328618373;Médio risco
+364;Research & Development;Laboratory Technician;28;3485;0;No;3;1;1;0.5089360556678065;Médio risco
+1933;Sales;Sales Executive;28;9854;2;Yes;3;3;1;0.5059199736504593;Médio risco
+1111;Research & Development;Laboratory Technician;28;2596;1;No;2;3;1;0.5038194329250952;Médio risco
+1714;Human Resources;Human Resources;24;1555;1;No;3;3;1;0.5031157086777314;Médio risco
+1642;Human Resources;Human Resources;44;5743;10;Yes;4;3;0;0.5016523214312193;Médio risco
+1967;Sales;Sales Executive;31;5617;10;Yes;4;3;1;0.49855492058306894;Médio risco
+133;Human Resources;Human Resources;37;2073;3;Yes;1;3;1;0.4975695348913623;Médio risco
+647;Research & Development;Laboratory Technician;24;2886;6;Yes;3;3;1;0.4930775201276623;Médio risco
+1650;Sales;Sales Executive;29;5869;5;No;3;3;0;0.4903569975389009;Médio risco
+1017;Research & Development;Laboratory Technician;30;2422;3;No;2;3;1;0.4887883674639884;Médio risco
+1733;Sales;Sales Executive;36;6134;2;Yes;1;3;1;0.48696541871989024;Médio risco
+1269;Research & Development;Research Scientist;19;2994;1;Yes;4;3;0;0.48656019294061903;Médio risco
+4;Research & Development;Laboratory Technician;37;2090;0;Yes;3;3;1;0.4838963768576294;Médio risco
+783;Sales;Sales Representative;45;6632;8;No;3;3;0;0.4829803765118803;Médio risco
+1556;Sales;Sales Representative;36;2644;3;Yes;4;2;0;0.47474498885969685;Médio risco
+1604;Research & Development;Laboratory Technician;28;2408;1;Yes;2;3;1;0.47419583659106795;Médio risco
+1702;Sales;Sales Representative;23;2275;3;Yes;4;3;1;0.47161372710823785;Médio risco
+1905;Research & Development;Research Scientist;34;2307;5;Yes;1;3;1;0.4676805049430445;Médio risco
+475;Sales;Sales Executive;30;4736;2;Yes;3;4;0;0.4664976458915481;Médio risco
+1669;Sales;Sales Executive;29;4187;10;Yes;2;2;0;0.4638817037349394;Médio risco
+1010;Research & Development;Laboratory Technician;35;3743;4;Yes;2;1;1;0.46264963548347426;Médio risco
+1496;Research & Development;Manufacturing Director;44;10209;2;Yes;3;2;0;0.460322649733126;Médio risco
+566;Human Resources;Human Resources;19;2564;1;No;4;4;1;0.45724099778477323;Médio risco
+436;Sales;Sales Executive;32;5228;13;Yes;2;3;0;0.4559533716198268;Médio risco
+1100;Sales;Sales Executive;35;9582;8;Yes;1;3;1;0.45587868084178895;Médio risco
+274;Research & Development;Manufacturing Director;27;4298;2;No;1;3;0;0.45281702436481364;Médio risco
+1797;Sales;Sales Executive;35;5813;10;Yes;4;3;1;0.4518604130394103;Médio risco
+467;Sales;Sales Representative;47;2976;0;No;3;3;0;0.44790106514632483;Médio risco
+1960;Research & Development;Laboratory Technician;28;2367;4;No;4;2;1;0.44588065572734265;Médio risco
+732;Sales;Sales Executive;60;5405;2;No;1;3;0;0.4452478058202905;Médio risco
+325;Research & Development;Laboratory Technician;33;2436;5;Yes;4;1;1;0.44280840701388563;Médio risco
+896;Sales;Sales Representative;29;2800;3;Yes;3;3;1;0.44226405086839166;Médio risco
+494;Sales;Sales Representative;21;2716;1;No;2;3;1;0.43737690019448316;Médio risco
+2053;Research & Development;Laboratory Technician;29;4025;4;Yes;2;3;0;0.4359542139229353;Médio risco
+1307;Research & Development;Manager;39;17123;19;Yes;2;3;0;0.4349037436217169;Médio risco
+1783;Research & Development;Laboratory Technician;22;2398;1;Yes;1;3;1;0.4321872096073323;Médio risco
+1801;Sales;Sales Executive;46;7991;2;No;2;3;0;0.4317601024467086;Médio risco
+1281;Sales;Sales Executive;34;4538;3;Yes;1;3;0;0.4302842325900091;Médio risco
+190;Research & Development;Laboratory Technician;32;4200;5;No;1;4;1;0.42734763048846447;Médio risco
+113;Sales;Sales Representative;23;2322;0;No;1;3;0;0.42630131843549257;Médio risco
+927;Research & Development;Laboratory Technician;41;2778;7;Yes;4;2;1;0.4259208646706425;Médio risco
+51;Research & Development;Research Scientist;36;3419;1;Yes;1;4;0;0.42237265738545454;Médio risco
+1975;Sales;Sales Executive;39;13341;20;No;1;3;0;0.4218403391278324;Médio risco
+315;Research & Development;Research Scientist;29;2389;4;Yes;4;2;1;0.4198422037721682;Médio risco
+939;Research & Development;Research Scientist;33;2799;3;Yes;1;3;0;0.4178184989175852;Médio risco
+1107;Research & Development;Laboratory Technician;26;2377;1;No;3;2;1;0.4159845744700016;Médio risco
+7;Research & Development;Laboratory Technician;27;3468;2;No;2;3;0;0.4133706729902419;Médio risco
+1551;Research & Development;Laboratory Technician;24;2296;1;No;1;3;0;0.4133602084509589;Médio risco
+434;Research & Development;Research Scientist;27;2478;4;Yes;2;2;0;0.41156677242716994;Médio risco
+1916;Research & Development;Laboratory Technician;31;3978;2;No;3;2;0;0.41015898439890464;Médio risco
+577;Research & Development;Laboratory Technician;35;4230;5;No;3;3;0;0.4100459351640583;Médio risco
+913;Research & Development;Research Scientist;44;2559;8;Yes;1;3;0;0.40675305219946795;Médio risco
+1350;Research & Development;Research Scientist;35;4249;9;Yes;3;3;0;0.4039018372465685;Médio risco
+492;Sales;Sales Executive;40;6380;6;Yes;3;3;1;0.40049914451403357;Médio risco
+1372;Sales;Sales Executive;55;13695;19;Yes;3;2;1;0.39976390196338857;Médio risco
+811;Research & Development;Laboratory Technician;23;1601;0;Yes;1;3;1;0.39847171991451186;Médio risco
+854;Research & Development;Research Scientist;25;3424;4;No;1;2;0;0.3930018853666805;Médio risco
+405;Research & Development;Laboratory Technician;18;1420;0;No;3;3;1;0.390296724347728;Médio risco
+925;Sales;Sales Representative;47;3294;3;Yes;4;2;0;0.3897985941519027;Médio risco
+1893;Research & Development;Research Scientist;26;2933;1;Yes;3;2;0;0.38554803219847916;Médio risco
+1876;Sales;Sales Representative;30;1081;1;No;4;2;1;0.3841791957185685;Médio risco
+2003;Research & Development;Laboratory Technician;35;2660;2;Yes;3;3;0;0.38336038864443883;Médio risco
+382;Sales;Sales Executive;38;5605;8;Yes;1;3;0;0.3806536921618518;Médio risco
+1850;Research & Development;Laboratory Technician;27;2379;5;Yes;4;2;0;0.38004890485022663;Médio risco
+1735;Research & Development;Laboratory Technician;23;3295;3;No;2;1;0;0.37923468362420054;Médio risco
+183;Sales;Sales Executive;25;8639;2;No;3;3;0;0.378944296160894;Médio risco
+1377;Research & Development;Laboratory Technician;34;5429;8;No;3;3;0;0.37844033771440677;Médio risco
+803;Research & Development;Manufacturing Director;38;5980;15;Yes;1;3;0;0.37750106877832773;Médio risco
+1549;Research & Development;Laboratory Technician;33;5207;15;Yes;3;3;0;0.3774042048535658;Médio risco
+1371;Sales;Sales Executive;27;5071;6;No;4;3;0;0.374191118405825;Médio risco
+723;Sales;Sales Executive;50;6796;4;Yes;3;3;1;0.37398385821895397;Médio risco
+269;Research & Development;Laboratory Technician;35;4425;6;No;2;3;0;0.3724544774860483;Médio risco
+587;Research & Development;Healthcare Representative;31;9824;1;No;3;3;1;0.36467298296049055;Médio risco
+1605;Research & Development;Research Scientist;22;2814;4;Yes;3;2;0;0.36410099140717145;Médio risco
+1835;Sales;Sales Representative;38;5405;4;Yes;4;2;0;0.3622057045401072;Médio risco
+1720;Research & Development;Research Scientist;32;3433;5;No;3;2;0;0.35975351132143774;Médio risco
+773;Research & Development;Research Scientist;38;3057;1;Yes;3;1;0;0.35959468561995755;Médio risco
+1704;Research & Development;Research Scientist;35;4930;5;Yes;4;4;0;0.35923756736046447;Médio risco
+954;Sales;Sales Executive;40;9705;1;No;2;2;0;0.3590199203854381;Médio risco
+1052;Research & Development;Laboratory Technician;36;4834;1;No;3;2;1;0.3582377204061692;Médio risco
+508;Sales;Sales Representative;30;2476;1;No;2;3;0;0.35797295289916276;Médio risco
+1202;Research & Development;Research Scientist;29;2168;5;Yes;4;2;0;0.3551672008703185;Médio risco
+652;Research & Development;Laboratory Technician;35;3681;3;No;4;3;0;0.35419849983992974;Médio risco
+1421;Research & Development;Healthcare Representative;29;7553;8;Yes;4;3;1;0.35398075767862686;Médio risco
+493;Research & Development;Research Scientist;31;2657;2;Yes;2;3;0;0.35301860876140556;Médio risco
+45;Research & Development;Research Scientist;24;2293;2;Yes;4;2;1;0.3490926689720036;Médio risco
+1539;Research & Development;Research Director;50;14411;32;Yes;4;3;0;0.3489982361913779;Médio risco
+1853;Sales;Sales Executive;32;4648;0;No;4;4;0;0.348120928595082;Médio risco
+363;Sales;Manager;46;16872;7;Yes;2;2;0;0.34613901453135515;Médio risco
+1226;Sales;Sales Representative;20;2678;2;No;4;3;0;0.3455188544658575;Médio risco
+585;Sales;Sales Representative;30;2983;3;No;2;3;0;0.3437743169270393;Médio risco
+618;Sales;Sales Executive;26;4306;0;No;3;3;0;0.34241428016654935;Médio risco
+2040;Human Resources;Human Resources;35;8837;9;Yes;4;3;0;0.3403680173883879;Médio risco
+1033;Research & Development;Healthcare Representative;37;4777;1;No;2;1;1;0.33992979115524924;Médio risco
+1239;Sales;Sales Executive;40;6852;5;No;2;4;0;0.33788079997114434;Médio risco
+120;Sales;Sales Executive;51;5441;10;Yes;4;1;0;0.3375598352567083;Médio risco
+446;Sales;Sales Executive;33;4682;7;No;4;2;0;0.3372362989167636;Médio risco
+1405;Research & Development;Research Scientist;27;2394;8;Yes;3;3;1;0.3364595242458248;Médio risco
+68;Sales;Sales Executive;44;5454;4;Yes;1;2;0;0.33590575223056107;Médio risco
+875;Research & Development;Research Scientist;42;2515;2;Yes;4;3;0;0.3348779191993737;Médio risco
+238;Research & Development;Laboratory Technician;36;2088;8;No;2;2;0;0.33376643332761846;Médio risco
+941;Sales;Sales Representative;31;2329;7;No;3;4;0;0.33326492371660427;Médio risco
+1219;Research & Development;Laboratory Technician;24;2210;1;No;2;1;1;0.331894140600074;Médio risco
+1425;Sales;Sales Executive;36;9278;5;Yes;2;3;0;0.3295555672536473;Médio risco
+1083;Research & Development;Laboratory Technician;26;3955;5;No;1;3;0;0.329067051639536;Médio risco
+584;Research & Development;Laboratory Technician;33;3408;4;No;4;3;1;0.3264161598189834;Médio risco
+1396;Sales;Sales Executive;32;4078;3;Yes;2;2;0;0.32425598416565865;Médio risco
+1387;Sales;Sales Executive;28;4724;5;No;1;3;0;0.32217523115953994;Médio risco
+922;Sales;Sales Representative;20;2044;2;No;3;2;1;0.32206776832626977;Médio risco
+1415;Research & Development;Laboratory Technician;25;3229;3;No;4;2;0;0.3220617309046935;Médio risco
+1180;Research & Development;Research Scientist;40;4422;1;Yes;4;1;0;0.32205715074445596;Médio risco
+1403;Sales;Sales Executive;27;5769;6;Yes;4;3;0;0.3201269616573509;Médio risco
+79;Research & Development;Laboratory Technician;38;2406;10;No;4;3;0;0.3188986954294518;Médio risco
+1275;Research & Development;Research Scientist;26;2875;8;Yes;4;2;0;0.31819774114145366;Médio risco
+1675;Research & Development;Laboratory Technician;38;2440;4;No;2;3;0;0.3171715282378079;Médio risco
+1614;Research & Development;Manufacturing Director;36;4663;3;Yes;3;3;0;0.31679895765385996;Médio risco
+525;Research & Development;Laboratory Technician;43;2258;3;No;4;3;0;0.31653244334845243;Médio risco
+90;Research & Development;Research Scientist;36;3388;1;Yes;3;2;1;0.3159159698783633;Médio risco
+565;Research & Development;Research Scientist;29;2546;2;No;2;4;1;0.3131639678221077;Médio risco
+362;Research & Development;Laboratory Technician;32;2176;6;No;1;3;0;0.3115115843749503;Médio risco
+964;Research & Development;Research Scientist;40;3617;1;Yes;2;3;0;0.3111044870134292;Médio risco
+1998;Research & Development;Research Scientist;42;5410;4;Yes;1;2;0;0.3102967287016413;Médio risco
+488;Sales;Sales Executive;41;9355;8;No;2;3;1;0.30809836065259216;Médio risco
+1175;Research & Development;Laboratory Technician;28;2515;1;Yes;4;2;1;0.30786923668179933;Médio risco
+2013;Sales;Sales Representative;32;2269;2;No;2;3;0;0.3060368525203852;Médio risco
+1674;Research & Development;Laboratory Technician;49;2587;2;Yes;1;2;0;0.30558852835512607;Médio risco
+396;Research & Development;Research Director;49;18665;3;Yes;1;3;0;0.3047019793109672;Médio risco
+752;Research & Development;Research Scientist;42;2759;2;Yes;3;3;1;0.3041364457102475;Médio risco
+1244;Research & Development;Research Scientist;27;2235;9;Yes;1;2;0;0.3022694935740103;Médio risco
+359;Research & Development;Laboratory Technician;32;2794;5;No;2;1;0;0.3018926961797235;Médio risco
+1534;Research & Development;Laboratory Technician;40;2018;5;No;1;1;1;0.30123447166448764;Médio risco
+286;Research & Development;Laboratory Technician;36;2153;8;No;4;3;0;0.30014669092864305;Médio risco
+1066;Sales;Sales Executive;40;8396;7;No;1;2;0;0.29821613899526506;Baixo risco
+1154;Research & Development;Research Scientist;28;2703;3;Yes;3;3;0;0.29679055023633044;Baixo risco
+233;Research & Development;Research Scientist;27;3058;5;Yes;2;2;0;0.2959527878463766;Baixo risco
+555;Sales;Sales Representative;34;2351;2;No;3;2;1;0.295720469337629;Baixo risco
+1131;Research & Development;Research Scientist;21;2070;2;Yes;2;4;0;0.2923737593087296;Baixo risco
+1203;Research & Development;Research Scientist;22;2853;0;Yes;4;3;1;0.2917269676182161;Baixo risco
+484;Sales;Sales Representative;21;2610;3;No;4;2;0;0.2900188680210086;Baixo risco
+1282;Sales;Manager;51;19847;29;Yes;2;2;0;0.28902639168452676;Baixo risco
+297;Research & Development;Research Scientist;30;2657;5;Yes;1;3;1;0.2876318144185656;Baixo risco
+1486;Sales;Sales Representative;28;2909;3;No;3;4;1;0.28649159948610686;Baixo risco
+1481;Sales;Sales Executive;44;4768;1;No;3;2;0;0.28615319457505306;Baixo risco
+1883;Research & Development;Laboratory Technician;29;2062;3;No;1;3;0;0.2861052726977954;Baixo risco
+885;Sales;Sales Executive;25;4256;5;No;1;4;0;0.28399037960350243;Baixo risco
+161;Research & Development;Research Scientist;56;4963;5;Yes;2;3;1;0.2837308537469039;Baixo risco
+62;Sales;Sales Executive;46;5772;9;Yes;4;3;0;0.2833991552849452;Baixo risco
+1297;Research & Development;Laboratory Technician;51;2838;7;No;3;2;0;0.28108137880567535;Baixo risco
+1419;Human Resources;Human Resources;29;7988;10;No;1;2;0;0.280332308899328;Baixo risco
+205;Sales;Sales Representative;53;2306;7;Yes;3;1;0;0.2795284667053507;Baixo risco
+983;Sales;Sales Executive;38;5666;5;Yes;4;3;0;0.27783442041103207;Baixo risco
+376;Research & Development;Manager;47;11849;10;Yes;2;2;1;0.27747314163334985;Baixo risco
+1234;Research & Development;Laboratory Technician;32;2743;2;No;2;3;0;0.27679191200203535;Baixo risco
+1568;Sales;Sales Executive;30;9250;4;No;2;3;0;0.2754768588608772;Baixo risco
+904;Sales;Sales Executive;37;7642;10;Yes;2;3;0;0.27518434174480405;Baixo risco
+833;Research & Development;Manufacturing Director;30;6877;0;Yes;4;2;0;0.274517019060829;Baixo risco
+1277;Sales;Manager;45;18824;24;Yes;2;3;1;0.2738011683108317;Baixo risco
+281;Research & Development;Laboratory Technician;40;2741;7;Yes;4;4;0;0.27325465259490006;Baixo risco
+650;Sales;Sales Executive;31;4233;3;No;1;1;1;0.2728443050856007;Baixo risco
+1667;Sales;Sales Executive;35;4581;11;Yes;4;4;1;0.2726035622663768;Baixo risco
+2054;Research & Development;Research Scientist;29;3785;5;No;1;1;0;0.2723236517668963;Baixo risco
+1210;Research & Development;Research Scientist;41;2107;1;No;1;1;1;0.2722464666877978;Baixo risco
+1586;Research & Development;Laboratory Technician;29;4723;10;Yes;1;3;0;0.27220658731513037;Baixo risco
+1242;Research & Development;Research Director;42;13191;1;Yes;1;3;0;0.2719293928295159;Baixo risco
+684;Sales;Sales Executive;45;4286;1;No;1;3;1;0.27182970017493524;Baixo risco
+437;Sales;Sales Executive;27;4478;5;Yes;3;3;0;0.2715244466327946;Baixo risco
+1055;Sales;Sales Representative;34;2220;1;Yes;3;3;0;0.2714365264920002;Baixo risco
+746;Sales;Sales Executive;47;13770;22;Yes;3;2;0;0.27069517209096783;Baixo risco
+1641;Research & Development;Manufacturing Director;40;7945;4;Yes;4;2;0;0.2694199860816144;Baixo risco
+15;Research & Development;Laboratory Technician;29;4193;9;Yes;3;3;0;0.26642490013589826;Baixo risco
+1132;Research & Development;Laboratory Technician;39;6782;5;No;2;2;0;0.2660582898729644;Baixo risco
+1639;Sales;Sales Executive;35;10306;13;No;1;3;1;0.2660099790573342;Baixo risco
+1739;Sales;Sales Executive;32;9610;4;No;3;1;0;0.2639953116064175;Baixo risco
+1436;Sales;Sales Executive;36;5647;3;No;1;2;0;0.26394687628162566;Baixo risco
+1125;Sales;Sales Executive;38;7351;1;No;2;3;0;0.263067270072457;Baixo risco
+1740;Sales;Manager;40;19833;21;No;2;2;0;0.26261186288583516;Baixo risco
+466;Research & Development;Manufacturing Director;41;6032;5;Yes;2;3;0;0.2624028973622469;Baixo risco
+1779;Sales;Sales Executive;34;6029;2;No;4;3;0;0.26198847081566895;Baixo risco
+1856;Research & Development;Laboratory Technician;47;2105;2;No;3;3;0;0.26126047745026615;Baixo risco
+267;Research & Development;Research Scientist;37;3564;8;Yes;1;2;0;0.25968670026292223;Baixo risco
+1537;Research & Development;Research Scientist;31;4084;7;No;3;1;1;0.259422491092793;Baixo risco
+1657;Sales;Sales Representative;20;2783;2;No;3;3;0;0.25699665899846247;Baixo risco
+1237;Research & Development;Manufacturing Director;36;10252;7;Yes;1;3;0;0.2561668216657975;Baixo risco
+1046;Research & Development;Laboratory Technician;32;4025;8;No;3;3;0;0.2537964509635677;Baixo risco
+1164;Human Resources;Human Resources;35;4323;5;No;3;1;0;0.2521713241004785;Baixo risco
+61;Research & Development;Research Scientist;37;3022;1;No;2;3;0;0.25215194826294174;Baixo risco
+1818;Human Resources;Human Resources;26;2148;5;Yes;2;3;1;0.25139401610419637;Baixo risco
+538;Research & Development;Laboratory Technician;25;4031;2;No;1;3;1;0.2509661291359637;Baixo risco
+1507;Sales;Sales Executive;28;4898;4;No;1;3;0;0.2503154577908738;Baixo risco
+1612;Sales;Sales Executive;45;4385;10;No;1;3;0;0.24897563741160983;Baixo risco
+582;Research & Development;Manager;33;13610;7;Yes;3;4;1;0.24703898862366178;Baixo risco
+1399;Sales;Sales Executive;25;6232;3;No;3;2;0;0.24596974161486543;Baixo risco
+1692;Research & Development;Laboratory Technician;32;1393;1;No;2;3;1;0.24594391377072414;Baixo risco
+1535;Sales;Sales Executive;34;7083;10;Yes;3;3;0;0.24569841102783485;Baixo risco
+1563;Human Resources;Human Resources;38;6077;6;No;3;3;0;0.24466942857721072;Baixo risco
+201;Research & Development;Laboratory Technician;19;1483;1;No;2;3;0;0.24319589038123576;Baixo risco
+1433;Research & Development;Research Scientist;31;1261;1;No;2;4;1;0.24290680729461642;Baixo risco
+1402;Research & Development;Research Scientist;43;4081;20;Yes;3;1;0;0.24236374612794245;Baixo risco
+986;Sales;Sales Executive;40;13194;1;Yes;2;2;1;0.24194066121243007;Baixo risco
+1541;Sales;Sales Representative;34;2308;11;Yes;3;3;0;0.23929487261438406;Baixo risco
+1622;Research & Development;Manufacturing Director;28;4877;5;No;1;2;0;0.2362222809202591;Baixo risco
+747;Sales;Sales Executive;30;5304;8;No;4;2;0;0.23595264647971298;Baixo risco
+1890;Human Resources;Human Resources;36;3886;10;No;4;2;0;0.23522469332716825;Baixo risco
+1329;Sales;Sales Executive;41;6151;19;No;2;3;0;0.23448352898171018;Baixo risco
+104;Research & Development;Laboratory Technician;30;5126;10;Yes;4;2;0;0.23388967163638905;Baixo risco
+399;Sales;Sales Representative;31;2789;2;No;2;2;0;0.2330648724715026;Baixo risco
+1554;Sales;Sales Representative;35;2430;5;No;3;3;0;0.23299552444584704;Baixo risco
+246;Research & Development;Research Scientist;31;3929;4;Yes;4;3;0;0.23297938793766543;Baixo risco
+1301;Research & Development;Research Scientist;28;2080;3;No;1;2;0;0.23255457110062694;Baixo risco
+1987;Human Resources;Human Resources;25;2187;2;No;2;3;0;0.23212847882855894;Baixo risco
+2064;Research & Development;Manufacturing Director;27;6142;6;Yes;2;3;0;0.2284596947456066;Baixo risco
+879;Sales;Sales Executive;25;4194;5;Yes;1;3;0;0.22838649702976707;Baixo risco
+1992;Research & Development;Laboratory Technician;25;3977;2;Yes;3;2;0;0.2283541437116397;Baixo risco
+956;Sales;Sales Executive;26;4294;7;No;1;3;0;0.22807028472842458;Baixo risco
+974;Sales;Sales Representative;29;2157;3;No;4;3;0;0.2271141691725199;Baixo risco
+1766;Research & Development;Healthcare Representative;38;5811;1;Yes;4;3;0;0.22668866124230386;Baixo risco
+1725;Research & Development;Laboratory Technician;24;3907;6;No;1;4;0;0.22568095154345388;Baixo risco
+744;Research & Development;Laboratory Technician;44;3708;5;No;3;3;0;0.22556631838885322;Baixo risco
+2020;Research & Development;Research Scientist;44;2436;4;Yes;4;3;0;0.22547373681124613;Baixo risco
+1135;Sales;Sales Representative;31;2791;2;No;4;3;0;0.2253000978700886;Baixo risco
+144;Research & Development;Laboratory Technician;22;2871;0;No;4;3;0;0.2221980427622267;Baixo risco
+1502;Research & Development;Laboratory Technician;33;3838;5;No;2;3;0;0.22087968514792494;Baixo risco
+805;Sales;Sales Representative;35;2572;3;No;4;2;0;0.22045051889223577;Baixo risco
+663;Research & Development;Laboratory Technician;43;5679;8;Yes;3;3;0;0.21929657629628505;Baixo risco
+1435;Research & Development;Laboratory Technician;36;5810;10;No;4;2;0;0.2188260650698269;Baixo risco
+103;Human Resources;Human Resources;46;5021;4;Yes;2;3;0;0.21804259825574412;Baixo risco
+1160;Research & Development;Laboratory Technician;31;2610;2;No;3;2;1;0.21741721623875596;Baixo risco
+1101;Research & Development;Research Scientist;33;4508;13;No;3;3;1;0.2167577087206593;Baixo risco
+397;Research & Development;Research Scientist;36;4485;8;No;2;3;0;0.21646921052831117;Baixo risco
+1564;Research & Development;Laboratory Technician;35;2450;3;No;1;3;0;0.21489789617943844;Baixo risco
+1659;Research & Development;Laboratory Technician;36;2013;4;No;2;3;0;0.2147307783526204;Baixo risco
+604;Sales;Sales Executive;31;6582;6;Yes;4;4;0;0.21439706086077054;Baixo risco
+1908;Sales;Sales Executive;36;5507;4;No;2;1;0;0.21315248260398406;Baixo risco
+184;Human Resources;Human Resources;30;6347;11;Yes;4;1;0;0.21235884477205602;Baixo risco
+216;Sales;Sales Representative;34;2231;4;No;3;3;0;0.21205459641315408;Baixo risco
+1014;Research & Development;Healthcare Representative;35;10388;16;Yes;3;2;0;0.21116144027291542;Baixo risco
+701;Research & Development;Research Scientist;20;1009;1;Yes;3;3;1;0.21097318488490266;Baixo risco
+1156;Research & Development;Laboratory Technician;18;1904;0;No;3;3;1;0.21006906568865732;Baixo risco
+760;Human Resources;Human Resources;39;6389;8;No;2;1;0;0.20989133310404687;Baixo risco
+749;Sales;Sales Representative;29;2642;1;No;3;3;0;0.20870074804753747;Baixo risco
+2027;Research & Development;Research Scientist;29;4787;2;Yes;4;4;1;0.2077624428720122;Baixo risco
+1807;Research & Development;Laboratory Technician;34;5346;7;No;1;2;1;0.20731800511378276;Baixo risco
+556;Research & Development;Laboratory Technician;38;1702;1;Yes;4;3;0;0.20584036789886817;Baixo risco
+861;Research & Development;Research Scientist;30;3761;5;No;4;2;0;0.20460353259048078;Baixo risco
+1390;Sales;Sales Executive;39;6120;5;Yes;4;4;0;0.20159016367757285;Baixo risco
+518;Research & Development;Manufacturing Director;37;4197;1;Yes;2;2;0;0.20158434536756317;Baixo risco
+1678;Sales;Sales Executive;41;7082;2;Yes;3;3;0;0.20091588197432353;Baixo risco
+1613;Sales;Sales Executive;31;5332;5;No;1;3;0;0.2007017414274571;Baixo risco
+632;Sales;Sales Representative;24;2400;2;No;4;3;0;0.20009303655377556;Baixo risco
+1833;Sales;Sales Executive;31;9637;3;No;1;3;0;0.19755840955736406;Baixo risco
+666;Sales;Sales Representative;34;2579;8;Yes;3;3;0;0.19460896245231374;Baixo risco
+1981;Research & Development;Healthcare Representative;24;4617;4;No;3;2;0;0.19412432570866656;Baixo risco
+2045;Sales;Sales Executive;36;6652;6;No;4;2;0;0.19411805771713259;Baixo risco
+837;Research & Development;Healthcare Representative;38;6288;4;No;1;2;0;0.1938577900632465;Baixo risco
+656;Sales;Sales Executive;37;9602;3;Yes;3;2;0;0.1938486503769364;Baixo risco
+1049;Human Resources;Human Resources;45;2177;6;No;2;3;0;0.19294564699427816;Baixo risco
+311;Sales;Sales Representative;37;2793;9;No;4;3;0;0.19225875899491524;Baixo risco
+1980;Research & Development;Manufacturing Director;54;4440;5;Yes;1;3;0;0.19153179649180682;Baixo risco
+686;Research & Development;Laboratory Technician;26;2659;3;Yes;4;3;0;0.19046197201282433;Baixo risco
+1395;Sales;Sales Executive;33;9998;5;No;4;4;0;0.1902825013067086;Baixo risco
+463;Sales;Sales Executive;29;8268;7;Yes;2;3;0;0.1899289795386814;Baixo risco
+1220;Sales;Sales Executive;33;4539;10;No;3;2;0;0.1895994639516637;Baixo risco
+284;Research & Development;Research Scientist;22;2328;4;Yes;2;2;0;0.189540825269269;Baixo risco
+425;Research & Development;Laboratory Technician;45;5210;24;No;1;3;0;0.18946511142074085;Baixo risco
+893;Sales;Sales Representative;38;2899;2;No;2;3;0;0.18847334223284737;Baixo risco
+473;Sales;Manager;48;12504;0;No;3;1;0;0.18836397796966894;Baixo risco
+426;Research & Development;Research Scientist;31;2695;2;Yes;4;1;0;0.18726858220695253;Baixo risco
+328;Research & Development;Laboratory Technician;33;2707;9;No;1;4;1;0.1865138789698261;Baixo risco
+214;Research & Development;Research Scientist;58;3346;1;Yes;2;2;0;0.18603175509869876;Baixo risco
+764;Research & Development;Healthcare Representative;27;6811;7;No;1;1;0;0.18600951931347567;Baixo risco
+1880;Sales;Sales Executive;36;5673;10;Yes;3;3;0;0.1852815235977572;Baixo risco
+1165;Sales;Sales Executive;29;7336;11;No;1;1;1;0.1851184533759123;Baixo risco
+874;Research & Development;Laboratory Technician;44;2818;3;Yes;4;2;0;0.18474040346599357;Baixo risco
+934;Research & Development;Laboratory Technician;34;2008;1;No;2;3;0;0.18403225786356484;Baixo risco
+347;Research & Development;Research Scientist;42;6545;3;Yes;1;3;0;0.1832659287285076;Baixo risco
+1826;Research & Development;Laboratory Technician;35;2705;5;No;3;4;0;0.18271091120748897;Baixo risco
+1760;Research & Development;Laboratory Technician;38;2468;6;No;2;2;0;0.18227830196383205;Baixo risco
+2056;Sales;Sales Executive;39;12031;20;No;4;2;0;0.18216040165185798;Baixo risco
+445;Sales;Sales Executive;39;5238;1;Yes;3;2;1;0.18112452397433307;Baixo risco
+1784;Sales;Sales Executive;31;5468;12;No;4;3;0;0.18107579825653503;Baixo risco
+731;Human Resources;Manager;41;19141;21;No;4;2;0;0.18093740055999963;Baixo risco
+1113;Sales;Sales Executive;50;4728;0;Yes;3;3;1;0.1803738264697037;Baixo risco
+2018;Sales;Sales Executive;25;4907;5;Yes;3;2;0;0.18015526002418428;Baixo risco
+1082;Research & Development;Healthcare Representative;28;8722;10;No;1;2;1;0.18007371669961839;Baixo risco
+1927;Sales;Sales Executive;28;6834;7;Yes;4;3;0;0.1795937291781849;Baixo risco
+1952;Research & Development;Laboratory Technician;26;2867;7;No;1;2;0;0.17925134344152543;Baixo risco
+193;Research & Development;Research Scientist;38;4317;3;Yes;3;3;0;0.17903687586999004;Baixo risco
+1577;Research & Development;Research Scientist;34;2972;1;No;4;1;0;0.178856192254828;Baixo risco
+1043;Research & Development;Manufacturing Director;39;10880;21;Yes;1;3;0;0.17711362432761263;Baixo risco
+510;Research & Development;Research Scientist;26;3102;6;No;1;3;1;0.17662306840097652;Baixo risco
+1467;Human Resources;Human Resources;34;2742;2;No;3;3;1;0.17638009886919942;Baixo risco
+1102;Research & Development;Laboratory Technician;28;2207;4;No;3;2;0;0.17615587839598704;Baixo risco
+1560;Sales;Sales Executive;33;6392;2;No;1;1;0;0.17474708753070362;Baixo risco
+1193;Research & Development;Research Scientist;19;2552;1;No;1;3;0;0.17457718085608168;Baixo risco
+1311;Research & Development;Laboratory Technician;30;4627;9;No;4;3;0;0.1738500799424349;Baixo risco
+91;Sales;Sales Executive;59;5473;4;No;3;2;0;0.17306721125603988;Baixo risco
+1171;Sales;Sales Executive;42;5155;6;No;1;4;0;0.1723942142343979;Baixo risco
+316;Research & Development;Laboratory Technician;52;3212;2;No;4;2;0;0.1720694793038848;Baixo risco
+645;Sales;Sales Representative;25;2096;7;No;3;3;0;0.1720235921053468;Baixo risco
+124;Research & Development;Healthcare Representative;46;10673;10;Yes;1;2;0;0.17153738901229565;Baixo risco
+1746;Human Resources;Human Resources;24;2145;2;No;4;3;0;0.1712634225367021;Baixo risco
+1950;Sales;Sales Executive;34;9888;14;No;4;2;0;0.17125257106512223;Baixo risco
+1997;Research & Development;Manufacturing Director;38;5321;8;No;3;3;0;0.17091021416408006;Baixo risco
+16;Research & Development;Research Scientist;31;2911;5;No;3;2;0;0.17023258624495424;Baixo risco
+900;Sales;Sales Representative;37;2973;5;No;4;3;0;0.17010035673406962;Baixo risco
+455;Research & Development;Laboratory Technician;29;3983;3;No;4;3;0;0.16911385456860434;Baixo risco
+1985;Research & Development;Laboratory Technician;40;6323;10;No;3;4;0;0.1688809666877253;Baixo risco
+1816;Research & Development;Manufacturing Director;30;9667;7;No;3;3;0;0.16804519446343383;Baixo risco
+1587;Research & Development;Healthcare Representative;35;6142;5;Yes;3;3;0;0.16746006146190404;Baixo risco
+2014;Research & Development;Research Scientist;39;4108;7;No;4;3;0;0.16604987435895546;Baixo risco
+24;Research & Development;Research Scientist;38;3944;3;Yes;4;3;0;0.1659108876656899;Baixo risco
+530;Research & Development;Laboratory Technician;31;2218;4;No;1;3;0;0.16565280571112317;Baixo risco
+1479;Sales;Sales Executive;30;5301;2;No;3;2;0;0.16537398758005423;Baixo risco
+1915;Sales;Sales Executive;34;8103;4;Yes;4;2;0;0.16521131705239148;Baixo risco
+613;Sales;Manager;31;11557;5;No;4;2;0;0.16466490156610486;Baixo risco
+916;Sales;Sales Executive;28;4908;4;No;4;3;0;0.16450887749663282;Baixo risco
+1412;Research & Development;Manufacturing Director;35;9362;2;No;4;3;0;0.16418148680853636;Baixo risco
+1753;Research & Development;Healthcare Representative;29;6294;3;Yes;3;4;0;0.16405135806247653;Baixo risco
+453;Sales;Sales Executive;40;7457;4;Yes;4;2;0;0.16388887030688498;Baixo risco
+1434;Research & Development;Laboratory Technician;27;2099;5;No;1;4;0;0.1636994853932038;Baixo risco
+1761;Sales;Sales Executive;31;8161;1;No;3;3;1;0.16360100089113513;Baixo risco
+533;Sales;Sales Executive;30;6577;5;No;3;3;0;0.16328819054867302;Baixo risco
+85;Research & Development;Manufacturing Director;36;6499;6;No;2;3;0;0.16204478346728374;Baixo risco
+1787;Sales;Sales Executive;37;4189;5;No;2;3;0;0.16174223308763125;Baixo risco
+738;Sales;Sales Representative;50;3875;2;No;2;3;0;0.16163804524695874;Baixo risco
+1251;Research & Development;Healthcare Representative;31;6833;6;Yes;1;2;0;0.16149812433644672;Baixo risco
+848;Research & Development;Research Scientist;26;2366;8;Yes;3;3;1;0.16005000250925952;Baixo risco
+1881;Research & Development;Laboratory Technician;31;4197;10;No;3;3;0;0.15925660480806483;Baixo risco
+2012;Research & Development;Laboratory Technician;40;2406;1;No;4;2;0;0.15854662655030657;Baixo risco
+496;Research & Development;Healthcare Representative;35;6540;1;No;2;3;0;0.15818147732898513;Baixo risco
+88;Research & Development;Research Scientist;35;2194;3;No;1;2;0;0.1581544052165324;Baixo risco
+1136;Research & Development;Research Scientist;28;3201;5;No;2;1;0;0.15803329187188103;Baixo risco
+1447;Research & Development;Laboratory Technician;34;3294;5;No;2;2;0;0.15802705305096854;Baixo risco
+145;Research & Development;Healthcare Representative;51;7484;13;No;1;2;0;0.15722719019542142;Baixo risco
+772;Research & Development;Laboratory Technician;32;5309;10;No;4;3;0;0.15718440973868375;Baixo risco
+513;Sales;Sales Executive;36;7596;10;No;3;3;0;0.1562596554869219;Baixo risco
+829;Human Resources;Human Resources;36;2143;5;No;2;3;0;0.15625194720157207;Baixo risco
+1392;Research & Development;Research Scientist;41;5467;6;Yes;4;2;0;0.1556085972319513;Baixo risco
+1924;Sales;Sales Executive;33;5487;10;No;3;2;0;0.1555480111565452;Baixo risco
+1929;Sales;Sales Executive;39;5736;3;No;3;3;0;0.15509678289317988;Baixo risco
+1411;Research & Development;Laboratory Technician;37;3629;3;No;3;3;0;0.15478690549141247;Baixo risco
+2046;Sales;Sales Executive;45;4850;5;No;3;3;0;0.1547759412672124;Baixo risco
+429;Research & Development;Manager;39;17068;21;Yes;1;3;0;0.15471729731322584;Baixo risco
+1306;Research & Development;Manager;45;18061;0;No;2;3;0;0.15411354606604294;Baixo risco
+1597;Research & Development;Healthcare Representative;34;5063;8;No;3;2;0;0.15407684521518306;Baixo risco
+856;Research & Development;Research Scientist;35;2559;6;No;1;2;0;0.1540596158901384;Baixo risco
+470;Human Resources;Human Resources;42;2696;3;Yes;3;3;0;0.1525888903076911;Baixo risco
+1310;Research & Development;Research Scientist;39;3904;5;No;1;3;1;0.15190529948029594;Baixo risco
+1842;Human Resources;Human Resources;31;2956;1;No;1;3;1;0.15132603689774857;Baixo risco
+1211;Sales;Sales Executive;30;4115;4;No;1;3;0;0.15125612237727487;Baixo risco
+1056;Sales;Sales Representative;28;1052;1;No;2;3;0;0.1505112322570011;Baixo risco
+1409;Research & Development;Laboratory Technician;52;2950;5;No;1;1;0;0.14968108039781372;Baixo risco
+665;Human Resources;Human Resources;44;5985;2;No;3;4;0;0.14907382062375646;Baixo risco
+1258;Research & Development;Laboratory Technician;48;2559;1;No;2;2;0;0.1481359378661482;Baixo risco
+351;Research & Development;Laboratory Technician;42;2593;9;Yes;1;3;0;0.14805156967849104;Baixo risco
+1943;Sales;Sales Executive;42;5087;0;Yes;4;3;0;0.14537087502178797;Baixo risco
+403;Research & Development;Research Scientist;37;2326;4;Yes;4;2;0;0.14497163400858942;Baixo risco
+699;Research & Development;Manufacturing Director;36;8847;3;Yes;2;3;0;0.1448293065924967;Baixo risco
+444;Research & Development;Manager;39;19272;21;No;4;3;0;0.14379503275796215;Baixo risco
+155;Research & Development;Laboratory Technician;36;2835;1;No;4;3;0;0.14315957717045927;Baixo risco
+1583;Sales;Sales Executive;38;4198;3;No;2;4;0;0.14306658278890916;Baixo risco
+1150;Research & Development;Manufacturing Director;29;5056;10;Yes;4;2;0;0.14119460335775488;Baixo risco
+729;Sales;Sales Executive;40;10475;18;Yes;1;3;0;0.1409704808738148;Baixo risco
+910;Human Resources;Human Resources;33;2277;4;Yes;2;4;0;0.1405300044042594;Baixo risco
+416;Sales;Sales Executive;31;6929;8;No;4;2;0;0.14047556820692017;Baixo risco
+329;Sales;Manager;52;19068;33;Yes;3;4;0;0.13975520160378618;Baixo risco
+60;Sales;Sales Executive;34;4568;9;No;3;3;0;0.13886550399094344;Baixo risco
+1972;Human Resources;Human Resources;38;2991;6;Yes;2;3;0;0.13755133660077362;Baixo risco
+936;Sales;Sales Executive;42;6244;5;No;3;3;0;0.1373149182552817;Baixo risco
+1754;Sales;Sales Executive;30;7140;7;No;1;3;0;0.13722368422116013;Baixo risco
+1932;Research & Development;Research Scientist;34;5747;15;Yes;4;3;0;0.13685795723863386;Baixo risco
+150;Research & Development;Laboratory Technician;24;2774;5;No;3;3;0;0.13649838160688077;Baixo risco
+1945;Sales;Sales Executive;35;5561;5;No;1;1;0;0.13583739369895106;Baixo risco
+600;Sales;Sales Executive;35;4717;11;No;3;3;0;0.13572091320686142;Baixo risco
+41;Research & Development;Laboratory Technician;30;2206;10;No;3;3;0;0.13519344616864196;Baixo risco
+1722;Human Resources;Human Resources;41;6430;3;No;2;3;0;0.13425879277663075;Baixo risco
+1585;Sales;Sales Executive;36;6815;1;No;3;3;0;0.13352470884983844;Baixo risco
+878;Human Resources;Human Resources;36;2342;5;No;1;3;0;0.1335088734633747;Baixo risco
+864;Sales;Sales Executive;45;10761;5;Yes;1;3;0;0.13346133092427565;Baixo risco
+38;Sales;Manager;46;18947;2;No;1;2;0;0.13283971075309461;Baixo risco
+1106;Research & Development;Laboratory Technician;25;3691;7;Yes;4;4;1;0.1325921601396878;Baixo risco
+1694;Research & Development;Research Scientist;55;3537;4;No;2;3;0;0.13240038973181364;Baixo risco
+808;Sales;Sales Executive;34;6500;3;No;1;3;0;0.13172496103033143;Baixo risco
+1391;Sales;Sales Executive;51;10596;4;No;2;3;0;0.1311241575229827;Baixo risco
+1836;Sales;Sales Executive;26;4684;5;No;4;3;0;0.13096776671712007;Baixo risco
+80;Research & Development;Research Director;50;18740;27;Yes;3;2;0;0.13018812499625718;Baixo risco
+240;Sales;Sales Executive;45;5006;5;Yes;1;4;0;0.12983455748656522;Baixo risco
+1996;Sales;Sales Representative;31;3067;2;No;3;3;0;0.12909584997350515;Baixo risco
+643;Research & Development;Laboratory Technician;24;2127;1;No;2;3;0;0.12889686767195893;Baixo risco
+1724;Research & Development;Manufacturing Director;40;6516;1;Yes;1;3;0;0.1286984989970368;Baixo risco
+22;Research & Development;Laboratory Technician;22;2935;1;Yes;4;2;0;0.12844108366565685;Baixo risco
+799;Research & Development;Manufacturing Director;54;5485;5;Yes;1;3;0;0.12786939143110224;Baixo risco
+1907;Research & Development;Laboratory Technician;56;2587;4;No;4;3;1;0.1270211201788574;Baixo risco
+802;Research & Development;Research Scientist;37;2782;5;Yes;1;2;0;0.1264247826579382;Baixo risco
+199;Research & Development;Manager;41;17181;7;No;1;2;0;0.12634363523532294;Baixo risco
+1492;Sales;Sales Representative;35;2404;1;No;3;3;0;0.12611763647510388;Baixo risco
+889;Sales;Sales Executive;32;6524;10;No;2;3;0;0.12518406399319706;Baixo risco
+125;Sales;Sales Executive;32;5010;11;No;3;3;0;0.12504323111706064;Baixo risco
+388;Sales;Sales Executive;29;4554;10;No;4;2;0;0.1249768683209549;Baixo risco
+74;Sales;Sales Executive;35;9069;9;No;1;2;0;0.12492893167684391;Baixo risco
+1119;Sales;Sales Executive;38;8740;8;Yes;3;3;0;0.12398324765534786;Baixo risco
+2009;Research & Development;Healthcare Representative;33;4878;9;Yes;4;3;0;0.12362269862677171;Baixo risco
+1547;Research & Development;Healthcare Representative;42;10124;20;Yes;4;1;0;0.12337127042570256;Baixo risco
+1333;Research & Development;Laboratory Technician;44;2362;3;No;1;4;1;0.12278884035354794;Baixo risco
+1609;Research & Development;Research Scientist;30;2141;6;No;2;2;0;0.12268743030755742;Baixo risco
+1870;Research & Development;Research Scientist;27;4774;7;No;1;2;0;0.12246038677640363;Baixo risco
+1204;Sales;Manager;46;17048;26;No;1;3;0;0.12242048983394115;Baixo risco
+1364;Sales;Sales Representative;27;2534;1;No;4;3;0;0.12190226657781518;Baixo risco
+1599;Research & Development;Laboratory Technician;43;4876;6;No;2;3;0;0.12184031282189417;Baixo risco
+11;Research & Development;Laboratory Technician;30;2693;1;No;3;3;0;0.12117347481124621;Baixo risco
+1044;Sales;Sales Representative;33;2342;2;No;4;2;0;0.12094335803684753;Baixo risco
+1736;Research & Development;Manufacturing Director;31;5238;5;No;4;2;0;0.12092092433145886;Baixo risco
+1542;Research & Development;Laboratory Technician;42;4841;1;No;2;3;0;0.12005123333189557;Baixo risco
+667;Sales;Sales Representative;27;3041;4;No;1;3;1;0.11992047823968453;Baixo risco
+1126;Research & Development;Manufacturing Director;43;10820;8;No;1;3;0;0.11975150671144005;Baixo risco
+449;Sales;Sales Executive;27;6349;5;Yes;2;3;0;0.11939168352199511;Baixo risco
+1048;Sales;Manager;59;11904;6;Yes;4;1;0;0.11797720840899176;Baixo risco
+1506;Research & Development;Research Scientist;28;1563;1;No;3;1;0;0.11727850177998567;Baixo risco
+1394;Research & Development;Research Scientist;37;2996;6;Yes;3;3;0;0.11705496159963348;Baixo risco
+1545;Research & Development;Manufacturing Director;33;4320;5;No;2;3;0;0.11687802394289115;Baixo risco
+1321;Research & Development;Manager;30;11916;9;Yes;1;3;0;0.11639381105518565;Baixo risco
+1827;Research & Development;Manufacturing Director;47;10333;22;Yes;2;3;0;0.11639192802375407;Baixo risco
+194;Research & Development;Research Scientist;30;2632;5;No;3;2;0;0.11621453335125773;Baixo risco
+169;Research & Development;Laboratory Technician;22;2523;2;No;4;3;0;0.11612872703388313;Baixo risco
+1814;Research & Development;Healthcare Representative;41;6870;3;No;2;1;0;0.11515562343920745;Baixo risco
+1509;Research & Development;Laboratory Technician;49;4789;3;No;1;3;0;0.11436850599260173;Baixo risco
+1790;Research & Development;Healthcare Representative;36;8321;12;Yes;1;3;0;0.11371379750120918;Baixo risco
+1591;Sales;Manager;50;19331;1;Yes;3;3;0;0.11290353985483273;Baixo risco
+451;Research & Development;Healthcare Representative;43;9985;1;No;1;2;0;0.1124482930243715;Baixo risco
+1389;Research & Development;Manufacturing Director;31;6179;10;Yes;3;2;1;0.11233545548614547;Baixo risco
+31;Research & Development;Research Scientist;34;2960;4;No;1;3;1;0.1118611421514274;Baixo risco
+1710;Sales;Sales Representative;36;4502;13;No;4;2;0;0.1118585598672557;Baixo risco
+1294;Research & Development;Manufacturing Director;36;5410;16;Yes;2;3;0;0.1118043300410396;Baixo risco
+1042;Research & Development;Laboratory Technician;36;2743;17;No;1;3;1;0.11168157240231573;Baixo risco
+1515;Research & Development;Healthcare Representative;33;6388;0;Yes;3;3;0;0.11158522386728324;Baixo risco
+1973;Human Resources;Manager;55;19636;10;Yes;2;3;0;0.11153404555539628;Baixo risco
+1864;Sales;Sales Representative;27;3540;9;No;3;3;0;0.11134715460057376;Baixo risco
+1647;Research & Development;Research Scientist;27;3517;3;No;3;3;0;0.11109058742656373;Baixo risco
+1503;Sales;Sales Executive;47;4591;5;Yes;3;2;0;0.11106026523473722;Baixo risco
+1792;Research & Development;Research Scientist;44;2342;5;Yes;2;2;1;0.11062711272038724;Baixo risco
+1974;Research & Development;Laboratory Technician;31;1129;1;Yes;4;3;0;0.11060361812478334;Baixo risco
+1966;Research & Development;Manufacturing Director;32;9679;1;No;4;3;0;0.11038284618669836;Baixo risco
+1648;Research & Development;Research Scientist;27;2580;4;No;4;2;0;0.1100229733906193;Baixo risco
+1682;Research & Development;Healthcare Representative;36;5347;3;No;3;2;0;0.1092988276624548;Baixo risco
+366;Sales;Sales Executive;29;6644;0;No;2;3;0;0.10914541269881774;Baixo risco
+1956;Research & Development;Research Scientist;31;5003;10;No;1;3;0;0.10891285100178463;Baixo risco
+903;Sales;Sales Executive;47;4537;7;Yes;4;3;0;0.10880494080065298;Baixo risco
+511;Research & Development;Research Scientist;22;2244;2;No;2;3;0;0.1068759825761551;Baixo risco
+743;Research & Development;Manufacturing Director;38;7861;1;Yes;3;4;0;0.10624879055641735;Baixo risco
+758;Research & Development;Laboratory Technician;23;2500;4;No;1;4;0;0.10617280509201667;Baixo risco
+828;Research & Development;Research Scientist;28;4382;2;No;3;2;1;0.10616677624333622;Baixo risco
+872;Research & Development;Manufacturing Director;22;4775;2;No;4;1;0;0.10615044696210253;Baixo risco
+781;Sales;Sales Executive;25;6180;6;No;4;2;0;0.10613353257650089;Baixo risco
+1195;Research & Development;Research Scientist;45;4477;3;Yes;3;2;0;0.10569974706996643;Baixo risco
+679;Research & Development;Research Scientist;32;6322;6;Yes;4;2;0;0.10544113393363222;Baixo risco
+1865;Human Resources;Human Resources;29;2804;1;No;2;3;0;0.10527922301789958;Baixo risco
+5;Research & Development;Research Scientist;33;2909;8;Yes;3;3;0;0.10414011052870964;Baixo risco
+1886;Research & Development;Manufacturing Director;35;4788;3;Yes;2;3;0;0.10372656319974403;Baixo risco
+1292;Research & Development;Research Scientist;42;2372;1;Yes;2;3;0;0.10312474624798706;Baixo risco
+926;Research & Development;Manufacturing Director;22;4171;3;Yes;3;4;1;0.10200079464584685;Baixo risco
+635;Research & Development;Manufacturing Director;37;6447;6;No;2;2;0;0.1018120305240777;Baixo risco
+337;Research & Development;Research Director;31;13675;2;No;3;3;0;0.10107397883021227;Baixo risco
+641;Sales;Sales Executive;26;6272;5;No;2;4;0;0.10053380564384454;Baixo risco
+1691;Sales;Sales Representative;48;2655;9;Yes;3;3;1;0.10031880571686197;Baixo risco
+700;Research & Development;Research Scientist;27;2045;4;No;4;3;0;0.10008727761655083;Baixo risco
+1200;Research & Development;Research Scientist;44;2936;6;Yes;3;3;1;0.09990590192754073;Baixo risco
+495;Research & Development;Research Scientist;29;2201;3;No;4;3;0;0.09970315433944538;Baixo risco
+691;Research & Development;Research Scientist;35;6646;17;No;4;3;0;0.09929850704887286;Baixo risco
+800;Sales;Sales Executive;27;4342;4;No;4;3;0;0.09902696552209815;Baixo risco
+529;Research & Development;Research Scientist;37;4449;13;Yes;3;3;0;0.09898137731520781;Baixo risco
+838;Research & Development;Research Scientist;34;2553;5;No;4;3;0;0.09826064622129864;Baixo risco
+381;Research & Development;Manager;35;11996;7;No;2;2;0;0.09820719739624462;Baixo risco
+2032;Research & Development;Laboratory Technician;56;2339;10;No;3;1;1;0.09816392298549256;Baixo risco
+1480;Research & Development;Laboratory Technician;42;3673;12;No;4;3;0;0.09759665644960049;Baixo risco
+1212;Sales;Sales Executive;40;4327;0;No;2;3;0;0.09758111027511294;Baixo risco
+639;Research & Development;Research Scientist;24;2725;6;Yes;4;3;0;0.09742663681057821;Baixo risco
+407;Research & Development;Laboratory Technician;36;3688;1;No;4;3;0;0.09695587268167313;Baixo risco
+1216;Research & Development;Laboratory Technician;28;3196;6;No;1;3;0;0.09678613512041317;Baixo risco
+78;Research & Development;Manufacturing Director;32;6162;9;Yes;4;3;0;0.09595457242594593;Baixo risco
+586;Research & Development;Healthcare Representative;35;7632;8;Yes;3;3;0;0.09590475163433763;Baixo risco
+1633;Research & Development;Manufacturing Director;39;5042;9;No;3;1;0;0.09582950133528673;Baixo risco
+389;Research & Development;Laboratory Technician;55;5415;10;Yes;4;3;0;0.09563889777935691;Baixo risco
+73;Research & Development;Research Director;33;13458;15;Yes;4;3;0;0.09563645490919336;Baixo risco
+81;Sales;Sales Executive;59;7637;21;No;1;2;0;0.09561637194813002;Baixo risco
+70;Research & Development;Healthcare Representative;35;9884;4;Yes;1;3;0;0.09553291409211224;Baixo risco
+404;Sales;Sales Executive;42;13525;20;No;2;4;0;0.0953564922200193;Baixo risco
+1839;Research & Development;Research Scientist;18;1514;0;No;3;1;0;0.09488517717271949;Baixo risco
+982;Sales;Sales Executive;30;7264;8;No;3;4;0;0.09481369608932048;Baixo risco
+1103;Research & Development;Healthcare Representative;34;7756;6;No;4;2;0;0.09430589922269575;Baixo risco
+1813;Research & Development;Research Scientist;43;2438;3;No;3;2;0;0.09357168710660098;Baixo risco
+578;Research & Development;Laboratory Technician;54;3780;1;No;3;3;0;0.09279130724154613;Baixo risco
+1477;Sales;Sales Executive;33;4373;4;No;1;3;0;0.092667374975395;Baixo risco
+1514;Research & Development;Manufacturing Director;28;6549;8;No;2;2;0;0.09216011547032966;Baixo risco
+1548;Sales;Sales Executive;40;5473;8;No;1;4;0;0.0916609961831599;Baixo risco
+1731;Sales;Sales Executive;47;4978;1;No;2;1;0;0.09160105010957145;Baixo risco
+1875;Sales;Sales Representative;28;2856;1;No;2;3;0;0.09094683363498587;Baixo risco
+793;Research & Development;Healthcare Representative;29;4335;8;No;3;2;0;0.0908851818341726;Baixo risco
+809;Research & Development;Manager;42;18430;24;No;4;2;0;0.09088226536580074;Baixo risco
+231;Research & Development;Research Scientist;32;3038;5;No;3;3;0;0.09074272627115965;Baixo risco
+1768;Research & Development;Laboratory Technician;42;2766;5;No;2;2;0;0.08991553732698697;Baixo risco
+97;Research & Development;Laboratory Technician;36;3038;1;No;4;3;0;0.08980924465275493;Baixo risco
+298;Sales;Manager;41;13591;1;Yes;4;3;0;0.08979573420458206;Baixo risco
+1030;Research & Development;Laboratory Technician;50;2380;1;No;4;3;0;0.08911258373663297;Baixo risco
+1837;Research & Development;Research Director;58;15787;2;Yes;3;3;0;0.08820440231825541;Baixo risco
+951;Research & Development;Laboratory Technician;32;2332;3;No;2;3;0;0.08818457857467137;Baixo risco
+207;Sales;Sales Executive;32;8998;9;No;4;3;0;0.08808740059414542;Baixo risco
+428;Research & Development;Manager;33;11878;10;No;2;3;0;0.0870383255958712;Baixo risco
+789;Sales;Sales Executive;36;7587;10;No;1;3;0;0.08697583022795065;Baixo risco
+10;Research & Development;Laboratory Technician;59;2670;1;Yes;1;2;0;0.08681847281897502;Baixo risco
+1448;Research & Development;Research Scientist;41;2127;4;Yes;3;2;0;0.08681182849982558;Baixo risco
+1550;Human Resources;Manager;40;16437;21;Yes;4;3;0;0.08664985080687669;Baixo risco
+1428;Sales;Sales Executive;30;4779;3;No;1;3;0;0.08642463975139751;Baixo risco
+321;Human Resources;Human Resources;59;2267;2;No;3;2;0;0.08632712391485411;Baixo risco
+521;Research & Development;Laboratory Technician;40;3448;1;No;3;3;0;0.08629447942083553;Baixo risco
+1291;Research & Development;Research Scientist;35;3506;3;Yes;3;3;0;0.08607822209220999;Baixo risco
+766;Sales;Sales Representative;29;2297;2;No;2;3;0;0.0852007094583778;Baixo risco
+1373;Research & Development;Manufacturing Director;56;13402;19;Yes;2;3;0;0.08473173231526494;Baixo risco
+888;Research & Development;Laboratory Technician;24;3162;5;No;4;2;0;0.08459959481717201;Baixo risco
+1362;Sales;Sales Executive;36;4639;15;No;1;2;0;0.08409136398152466;Baixo risco
+1606;Research & Development;Healthcare Representative;50;11245;30;Yes;3;3;0;0.084089958017525;Baixo risco
+474;Research & Development;Research Scientist;37;5974;7;Yes;1;3;0;0.08370278936765878;Baixo risco
+174;Sales;Sales Executive;50;9208;2;No;4;3;0;0.0837024514490513;Baixo risco
+1709;Research & Development;Laboratory Technician;29;2974;5;No;3;3;0;0.08359510725371204;Baixo risco
+39;Research & Development;Laboratory Technician;33;2496;1;No;4;3;0;0.08345573914106878;Baixo risco
+2068;Research & Development;Laboratory Technician;34;4404;4;No;3;4;0;0.08336691496929309;Baixo risco
+859;Sales;Sales Executive;32;4403;5;No;4;2;0;0.0833634201413491;Baixo risco
+967;Sales;Sales Executive;36;10325;16;Yes;4;3;1;0.0833239886880296;Baixo risco
+1235;Research & Development;Research Scientist;32;4998;8;Yes;3;3;0;0.08317424450509926;Baixo risco
+1240;Sales;Sales Executive;25;4950;4;No;4;3;0;0.08309070123758625;Baixo risco
+1954;Research & Development;Healthcare Representative;29;5373;5;No;1;2;0;0.08283902696322747;Baixo risco
+1580;Research & Development;Research Scientist;34;5484;2;No;4;2;0;0.08237814968138876;Baixo risco
+1749;Sales;Sales Executive;31;8346;5;No;3;3;0;0.08186041831784695;Baixo risco
+763;Research & Development;Research Scientist;40;2342;4;Yes;4;2;0;0.08142116427477498;Baixo risco
+1465;Research & Development;Manufacturing Director;45;9380;3;Yes;4;4;0;0.08120415018952494;Baixo risco
+8;Research & Development;Laboratory Technician;32;3068;7;No;4;2;0;0.0808494200375251;Baixo risco
+1430;Research & Development;Research Director;31;16422;3;No;2;4;0;0.08082428157951992;Baixo risco
+330;Sales;Sales Representative;32;3931;4;No;2;3;0;0.08078338986555739;Baixo risco
+1640;Research & Development;Research Scientist;37;3936;8;No;2;1;0;0.08030903531694232;Baixo risco
+605;Research & Development;Manufacturing Director;42;7406;10;Yes;1;2;0;0.08029864601042387;Baixo risco
+517;Research & Development;Laboratory Technician;42;2576;5;No;1;3;0;0.07989788117492316;Baixo risco
+433;Research & Development;Research Scientist;52;4941;8;No;2;2;1;0.07965740439219256;Baixo risco
+899;Research & Development;Manufacturing Director;35;10903;13;No;2;3;0;0.07930114830514927;Baixo risco
+12;Research & Development;Manufacturing Director;38;9526;9;No;3;3;0;0.07923589827653989;Baixo risco
+342;Research & Development;Manufacturing Director;37;10048;1;No;3;3;1;0.07907321872280067;Baixo risco
+592;Sales;Sales Executive;36;9980;10;No;4;2;0;0.07897491508219784;Baixo risco
+198;Research & Development;Laboratory Technician;30;2720;5;No;4;3;0;0.07849623983039278;Baixo risco
+933;Research & Development;Research Scientist;27;2318;1;No;3;3;0;0.07848661073385396;Baixo risco
+1298;Research & Development;Manufacturing Director;30;4695;8;Yes;3;3;0;0.0784335801542258;Baixo risco
+1407;Research & Development;Research Scientist;26;3904;4;No;4;3;0;0.0782939586718281;Baixo risco
+569;Research & Development;Manager;50;17046;27;No;3;3;0;0.0782133285655302;Baixo risco
+1179;Sales;Sales Executive;30;6578;10;No;3;3;0;0.07815846090628033;Baixo risco
+1098;Human Resources;Human Resources;44;10482;20;No;1;3;1;0.07815291439766706;Baixo risco
+1002;Research & Development;Laboratory Technician;45;3633;9;Yes;1;3;0;0.07778305463975056;Baixo risco
+1885;Research & Development;Research Scientist;37;4284;5;Yes;1;3;0;0.07773749011431413;Baixo risco
+1762;Research & Development;Research Scientist;29;2109;1;No;1;3;0;0.07751419982297052;Baixo risco
+649;Research & Development;Research Scientist;34;3622;6;Yes;4;3;0;0.07739352810974078;Baixo risco
+1356;Sales;Sales Executive;34;6125;10;No;1;4;0;0.07714194215053978;Baixo risco
+1495;Sales;Sales Representative;24;2033;1;No;2;3;0;0.07707642405684226;Baixo risco
+507;Sales;Sales Executive;24;4260;5;Yes;3;4;0;0.07688686991873213;Baixo risco
+245;Research & Development;Laboratory Technician;38;2288;2;No;4;3;0;0.07604051000224414;Baixo risco
+1070;Sales;Sales Executive;54;10686;9;No;3;3;0;0.07573985106155365;Baixo risco
+1163;Sales;Sales Executive;34;5714;6;No;3;2;0;0.07550500903424187;Baixo risco
+1558;Research & Development;Research Scientist;29;2451;1;No;3;2;0;0.07464597632633355;Baixo risco
+49;Sales;Sales Representative;35;2014;2;No;4;3;0;0.07435006780696547;Baixo risco
+568;Sales;Manager;57;14118;1;No;4;2;0;0.07388167685064836;Baixo risco
+852;Research & Development;Healthcare Representative;44;5933;5;No;2;2;0;0.07358345988581691;Baixo risco
+995;Research & Development;Research Scientist;33;3452;3;No;4;3;0;0.07354119470811196;Baixo risco
+1440;Research & Development;Laboratory Technician;37;3500;6;No;3;1;0;0.07324983130107035;Baixo risco
+1285;Research & Development;Laboratory Technician;34;4444;11;No;2;4;0;0.07297035595416938;Baixo risco
+536;Research & Development;Laboratory Technician;28;4558;10;No;1;3;0;0.07260905467109428;Baixo risco
+1912;Sales;Sales Executive;31;6583;5;Yes;4;3;0;0.07252908652743269;Baixo risco
+200;Research & Development;Laboratory Technician;41;2238;5;No;1;3;0;0.07235946178173082;Baixo risco
+1460;Research & Development;Healthcare Representative;45;10851;7;Yes;1;3;0;0.07233476254869811;Baixo risco
+657;Research & Development;Research Scientist;20;2836;1;No;2;4;0;0.0723196190539021;Baixo risco
+1361;Research & Development;Laboratory Technician;40;2387;4;No;2;3;0;0.07218052732122694;Baixo risco
+1324;Sales;Sales Executive;31;9852;10;Yes;3;2;0;0.07205233933315017;Baixo risco
+128;Sales;Sales Executive;24;4999;3;No;3;2;0;0.0715845790362334;Baixo risco
+431;Research & Development;Healthcare Representative;49;13964;7;Yes;3;3;0;0.07137746190267191;Baixo risco
+580;Sales;Sales Executive;46;9071;3;Yes;4;3;0;0.07125862840854559;Baixo risco
+291;Sales;Sales Executive;32;10400;14;No;4;2;1;0.07092734064769331;Baixo risco
+1172;Research & Development;Laboratory Technician;35;2258;8;No;3;3;0;0.07081051614074302;Baixo risco
+141;Research & Development;Research Director;50;18172;8;Yes;2;2;0;0.0704739950965689;Baixo risco
+305;Research & Development;Research Scientist;33;2622;3;No;2;3;0;0.070299185956468;Baixo risco
+333;Sales;Sales Executive;32;4465;3;No;4;3;0;0.07026453315440451;Baixo risco
+192;Research & Development;Research Scientist;45;3452;6;No;4;2;0;0.07000690014261708;Baixo risco
+1860;Research & Development;Laboratory Technician;42;3968;0;No;3;3;0;0.06996568016961595;Baixo risco
+1260;Research & Development;Healthcare Representative;29;6623;6;Yes;4;3;0;0.06984165715620677;Baixo risco
+56;Sales;Sales Executive;27;8726;9;No;3;3;0;0.06961185500968341;Baixo risco
+784;Research & Development;Research Scientist;23;3505;2;No;3;3;0;0.06940698928869714;Baixo risco
+481;Sales;Sales Executive;36;9699;13;No;4;3;0;0.06930858217630614;Baixo risco
+998;Research & Development;Healthcare Representative;33;5488;6;Yes;2;3;0;0.06926829505985099;Baixo risco
+30;Research & Development;Research Scientist;21;1232;0;No;4;3;0;0.06891999308435363;Baixo risco
+2060;Sales;Sales Representative;26;2966;4;No;3;3;0;0.06883920407166615;Baixo risco
+1683;Human Resources;Human Resources;44;3195;2;Yes;4;3;0;0.06880567956013198;Baixo risco
+1028;Research & Development;Laboratory Technician;35;3917;3;No;4;2;0;0.06814142704505248;Baixo risco
+1453;Sales;Sales Executive;31;10793;13;No;4;3;0;0.0680478947262129;Baixo risco
+2049;Research & Development;Healthcare Representative;35;5689;10;Yes;3;4;0;0.06786037305930438;Baixo risco
+560;Research & Development;Research Scientist;26;2886;3;No;4;1;0;0.06750573126721193;Baixo risco
+662;Research & Development;Research Scientist;38;2619;0;No;1;2;0;0.06749887438429561;Baixo risco
+1931;Research & Development;Research Scientist;27;2226;5;No;2;2;0;0.06739119654721025;Baixo risco
+1562;Sales;Sales Executive;30;9714;10;No;1;3;1;0.06692796892489106;Baixo risco
+547;Research & Development;Research Scientist;42;4556;5;No;3;3;0;0.06685215304822953;Baixo risco
+448;Research & Development;Laboratory Technician;43;5257;9;No;3;4;0;0.06670850984598263;Baixo risco
+1859;Research & Development;Healthcare Representative;29;6384;7;No;3;3;0;0.06645103488257532;Baixo risco
+1708;Sales;Sales Executive;41;9241;10;No;3;3;0;0.06610066495649852;Baixo risco
+1207;Human Resources;Human Resources;33;3600;5;No;3;3;0;0.06595059441007994;Baixo risco
+121;Sales;Sales Executive;30;5209;11;Yes;2;2;0;0.06562917288366642;Baixo risco
+176;Sales;Sales Executive;41;8189;9;Yes;3;3;0;0.06557937575104326;Baixo risco
+847;Human Resources;Human Resources;34;3737;3;No;4;1;0;0.0653510852782486;Baixo risco
+159;Research & Development;Research Scientist;30;2613;10;No;3;2;0;0.06504492894582865;Baixo risco
+1003;Sales;Sales Executive;47;4163;9;Yes;4;3;0;0.06482851111904338;Baixo risco
+179;Research & Development;Manufacturing Director;51;10650;4;No;4;3;1;0.06478520046902667;Baixo risco
+1581;Research & Development;Research Scientist;26;2061;1;No;4;3;0;0.06455150195838263;Baixo risco
+224;Research & Development;Research Scientist;27;2566;1;Yes;3;2;0;0.06406383388845335;Baixo risco
+1243;Sales;Sales Executive;35;10377;13;Yes;4;2;0;0.06396885505252217;Baixo risco
+1185;Research & Development;Laboratory Technician;35;2376;2;No;4;4;0;0.06367247237480729;Baixo risco
+894;Research & Development;Laboratory Technician;42;5231;5;Yes;4;2;0;0.06311078099307628;Baixo risco
+806;Research & Development;Laboratory Technician;30;3833;2;No;3;3;0;0.0630662930416632;Baixo risco
+277;Research & Development;Research Scientist;34;3815;5;Yes;3;4;0;0.06288661289568473;Baixo risco
+223;Research & Development;Healthcare Representative;57;9439;5;Yes;4;1;0;0.06252902420092236;Baixo risco
+775;Research & Development;Manufacturing Director;34;5121;0;No;1;3;0;0.06242108766693213;Baixo risco
+690;Sales;Sales Executive;29;5561;6;No;3;2;0;0.062351296364731745;Baixo risco
+95;Research & Development;Research Scientist;31;2501;1;No;2;3;0;0.06234371792582008;Baixo risco
+1485;Research & Development;Research Director;34;17007;14;No;1;2;0;0.062282158694501946;Baixo risco
+2038;Research & Development;Research Scientist;32;2439;4;No;1;3;0;0.06227612183713749;Baixo risco
+221;Research & Development;Research Scientist;28;2713;5;No;4;1;0;0.06211386341448428;Baixo risco
+602;Research & Development;Laboratory Technician;39;3755;8;No;3;3;0;0.061928220262554165;Baixo risco
+1218;Sales;Sales Executive;35;8966;7;Yes;1;3;0;0.06182540616099756;Baixo risco
+644;Human Resources;Manager;50;18200;32;No;2;3;0;0.06179334594798595;Baixo risco
+1461;Human Resources;Human Resources;31;2109;3;No;2;3;0;0.06168257699412573;Baixo risco
+804;Research & Development;Research Scientist;34;4381;6;No;1;3;0;0.06161936038602803;Baixo risco
+975;Sales;Sales Executive;35;4601;5;No;3;3;0;0.061138081577562634;Baixo risco
+625;Sales;Manager;41;16595;18;No;1;3;0;0.0609905375307095;Baixo risco
+498;Sales;Sales Executive;28;5253;7;No;4;3;0;0.06083387080646579;Baixo risco
+134;Research & Development;Research Scientist;32;2956;1;No;1;3;0;0.06080089569257931;Baixo risco
+21;Research & Development;Research Scientist;32;3298;6;Yes;2;2;0;0.06076655869859416;Baixo risco
+992;Sales;Manager;33;17444;10;No;3;3;0;0.06040535165518147;Baixo risco
+1718;Research & Development;Laboratory Technician;26;2305;3;No;3;4;0;0.06032852868965767;Baixo risco
+171;Research & Development;Research Scientist;43;4739;3;No;3;3;0;0.059982395653216385;Baixo risco
+1525;Research & Development;Manufacturing Director;39;8376;2;No;2;3;0;0.0598029861647664;Baixo risco
+961;Research & Development;Healthcare Representative;31;5855;9;Yes;4;1;0;0.059791144824120415;Baixo risco
+1360;Research & Development;Manufacturing Director;58;10008;10;Yes;1;2;1;0.059647758616449296;Baixo risco
+18;Research & Development;Laboratory Technician;34;2661;2;No;4;3;0;0.05957930880331816;Baixo risco
+486;Research & Development;Laboratory Technician;37;3452;5;No;1;3;0;0.05934738131469535;Baixo risco
+620;Sales;Sales Executive;35;4859;5;No;3;3;0;0.059345040753978326;Baixo risco
+423;Research & Development;Research Scientist;31;4821;5;Yes;4;3;0;0.05928324420965652;Baixo risco
+573;Sales;Sales Executive;60;10266;18;No;1;4;0;0.05911099473920793;Baixo risco
+1772;Research & Development;Laboratory Technician;41;2289;5;No;1;3;0;0.05906742710746693;Baixo risco
+1340;Research & Development;Research Scientist;40;3544;4;No;3;3;0;0.058851812261335186;Baixo risco
+780;Research & Development;Research Scientist;33;2686;10;Yes;4;2;1;0.058844242234282404;Baixo risco
+1034;Research & Development;Healthcare Representative;55;6385;8;Yes;2;3;0;0.058543930011389994;Baixo risco
+442;Research & Development;Manufacturing Director;31;8943;10;No;3;3;0;0.058474594442607136;Baixo risco
+675;Research & Development;Research Scientist;22;2773;2;No;3;3;0;0.058370402537223545;Baixo risco
+1140;Research & Development;Manufacturing Director;34;4033;3;No;3;2;0;0.058223429202523165;Baixo risco
+462;Research & Development;Manufacturing Director;31;7143;11;Yes;4;2;0;0.05792342248831223;Baixo risco
+591;Research & Development;Laboratory Technician;42;2093;2;No;3;3;0;0.057806924286436336;Baixo risco
+1719;Research & Development;Research Director;45;16704;21;No;2;3;0;0.05775659889900246;Baixo risco
+868;Sales;Sales Executive;37;6334;1;No;3;3;0;0.057637442561255275;Baixo risco
+1700;Sales;Sales Executive;37;9525;6;No;4;2;0;0.057213252202746256;Baixo risco
+754;Sales;Sales Executive;43;6804;2;No;4;3;0;0.0571565485858299;Baixo risco
+1092;Research & Development;Healthcare Representative;40;10322;11;No;4;3;0;0.05704103636457797;Baixo risco
+1576;Research & Development;Research Scientist;48;2367;8;No;1;2;0;0.05699277985829287;Baixo risco
+1105;Sales;Sales Executive;37;6694;1;Yes;4;3;0;0.05698043427052212;Baixo risco
+523;Sales;Sales Executive;34;6538;3;No;3;3;0;0.056300543671614314;Baixo risco
+1081;Research & Development;Research Scientist;51;2461;10;Yes;3;4;1;0.0562409606469498;Baixo risco
+1012;Research & Development;Research Scientist;18;1051;0;No;4;3;0;0.05619975636693229;Baixo risco
+379;Research & Development;Research Scientist;21;3230;3;No;3;4;0;0.055924253176813904;Baixo risco
+1596;Research & Development;Laboratory Technician;35;3407;10;No;3;2;0;0.055748251496088363;Baixo risco
+346;Research & Development;Research Scientist;29;2340;6;No;4;3;0;0.05565407742312431;Baixo risco
+842;Sales;Sales Executive;55;5160;9;No;4;2;1;0.05522266993383755;Baixo risco
+1317;Research & Development;Research Director;50;16880;3;Yes;1;3;0;0.05499873582866922;Baixo risco
+1127;Research & Development;Healthcare Representative;39;12169;18;No;4;3;1;0.05497533461690319;Baixo risco
+1224;Research & Development;Laboratory Technician;30;3491;10;No;3;2;0;0.05489756972716818;Baixo risco
+895;Research & Development;Research Scientist;31;2356;6;Yes;4;3;0;0.05456481466997407;Baixo risco
+1701;Research & Development;Research Scientist;34;2929;10;No;4;3;0;0.054506107492623856;Baixo risco
+2061;Research & Development;Laboratory Technician;36;2571;5;No;4;3;0;0.05399438703688341;Baixo risco
+834;Research & Development;Research Scientist;45;2274;1;No;3;3;0;0.05387536801908435;Baixo risco
+1162;Research & Development;Research Scientist;27;2539;4;No;3;3;0;0.053622686972318964;Baixo risco
+2031;Research & Development;Manager;42;18880;22;No;3;2;0;0.053434028737691215;Baixo risco
+100;Sales;Sales Executive;35;4312;15;No;1;3;0;0.05331605943307618;Baixo risco
+1623;Research & Development;Research Scientist;21;3117;2;No;4;3;0;0.05310377848531912;Baixo risco
+1303;Research & Development;Research Scientist;25;2096;2;No;2;2;0;0.05291094360628782;Baixo risco
+920;Research & Development;Manufacturing Director;43;4765;1;No;2;4;0;0.05289869372362932;Baixo risco
+1022;Research & Development;Healthcare Representative;48;4240;2;No;3;3;0;0.05286637495449593;Baixo risco
+1401;Research & Development;Manufacturing Director;52;13247;5;Yes;3;2;0;0.05283469699123143;Baixo risco
+152;Sales;Sales Executive;37;7428;5;No;4;3;0;0.05278116618832607;Baixo risco
+119;Research & Development;Healthcare Representative;40;13503;22;No;2;2;0;0.05256669559960202;Baixo risco
+923;Research & Development;Research Scientist;21;2693;1;No;4;2;1;0.05254523902184134;Baixo risco
+1138;Sales;Sales Executive;49;13120;9;No;2;3;0;0.052527027520856064;Baixo risco
+1732;Sales;Sales Executive;46;10368;10;Yes;4;2;0;0.05249100900613053;Baixo risco
+206;Research & Development;Laboratory Technician;45;2348;17;No;2;1;0;0.05226994525414481;Baixo risco
+343;Research & Development;Healthcare Representative;39;10938;19;No;3;3;0;0.051552806929035425;Baixo risco
+862;Sales;Sales Executive;53;10934;5;Yes;4;3;0;0.05140869996216675;Baixo risco
+705;Research & Development;Research Scientist;23;2819;3;No;1;4;0;0.051336840547143256;Baixo risco
+367;Research & Development;Healthcare Representative;31;5582;9;No;4;3;0;0.0510289684490074;Baixo risco
+300;Research & Development;Research Scientist;29;2058;6;No;3;2;1;0.05087008628070103;Baixo risco
+549;Research & Development;Manager;60;19566;29;No;1;1;0;0.05082776184198665;Baixo risco
+1673;Sales;Sales Executive;31;5476;10;No;4;3;0;0.050624575230656076;Baixo risco
+1681;Sales;Sales Executive;33;5368;6;Yes;4;3;0;0.0502237322732983;Baixo risco
+1006;Research & Development;Research Scientist;38;2684;2;No;3;2;0;0.04975024441671645;Baixo risco
+293;Sales;Sales Executive;27;9981;7;No;3;3;0;0.04974901799156315;Baixo risco
+1617;Research & Development;Laboratory Technician;49;3211;9;No;1;2;0;0.04873655617088857;Baixo risco
+680;Research & Development;Research Scientist;30;2083;1;No;3;3;0;0.04870484597922612;Baixo risco
+148;Human Resources;Manager;54;17328;5;Yes;4;3;0;0.04869845617311732;Baixo risco
+812;Research & Development;Laboratory Technician;24;2694;1;No;2;3;0;0.04847111612760018;Baixo risco
+178;Research & Development;Manufacturing Director;36;4941;3;No;2;3;0;0.048427685679167394;Baixo risco
+664;Research & Development;Manager;48;15402;3;No;1;1;0;0.04780011507072556;Baixo risco
+14;Research & Development;Laboratory Technician;35;2426;5;No;2;3;0;0.04759023555999842;Baixo risco
+827;Research & Development;Manufacturing Director;42;6062;4;Yes;4;3;0;0.04753020448525667;Baixo risco
+531;Research & Development;Manager;39;19197;21;Yes;3;3;0;0.047503685033999;Baixo risco
+197;Research & Development;Research Scientist;30;3204;3;No;1;3;0;0.04739508212863711;Baixo risco
+615;Sales;Sales Executive;40;10932;1;No;1;3;0;0.04736115479672115;Baixo risco
+1011;Research & Development;Manufacturing Director;31;4148;4;No;1;3;0;0.04712488664886972;Baixo risco
+1598;Sales;Sales Executive;40;4639;5;No;1;3;0;0.047044002577862315;Baixo risco
+1076;Sales;Sales Executive;43;10798;1;No;4;3;0;0.04692030019963245;Baixo risco
+230;Sales;Sales Executive;38;8686;8;No;4;4;0;0.04684322110436794;Baixo risco
+1615;Research & Development;Manufacturing Director;34;4724;9;No;4;3;0;0.04676042751387358;Baixo risco
+1809;Research & Development;Manufacturing Director;37;4213;10;No;1;1;1;0.046487640783910496;Baixo risco
+1812;Sales;Sales Executive;39;4127;2;No;4;3;0;0.04647439811912714;Baixo risco
+1802;Research & Development;Laboratory Technician;40;3377;4;No;1;2;0;0.046433340858741144;Baixo risco
+757;Research & Development;Healthcare Representative;34;6142;5;No;3;3;0;0.04628201645570463;Baixo risco
+430;Research & Development;Laboratory Technician;43;2455;8;No;4;3;0;0.04623586809413667;Baixo risco
+1882;Sales;Sales Executive;34;9713;5;Yes;4;3;0;0.04604859086198526;Baixo risco
+836;Research & Development;Manufacturing Director;42;4434;9;No;2;2;0;0.04591768122713923;Baixo risco
+151;Research & Development;Research Scientist;34;4505;1;No;2;3;0;0.04475942648123825;Baixo risco
+215;Sales;Sales Executive;40;10855;12;No;4;2;0;0.04475258125117952;Baixo risco
+1475;Research & Development;Research Scientist;44;3420;5;No;2;2;0;0.044734891440229775;Baixo risco
+548;Research & Development;Manufacturing Director;30;6091;5;No;4;3;0;0.0447120614558701;Baixo risco
+1935;Sales;Sales Executive;56;5380;0;No;1;3;0;0.04442210221230757;Baixo risco
+164;Research & Development;Research Scientist;26;2368;5;No;2;2;0;0.04425307645767821;Baixo risco
+1094;Research & Development;Laboratory Technician;27;4621;3;No;3;3;0;0.044222584854004696;Baixo risco
+57;Research & Development;Laboratory Technician;30;4011;12;No;4;3;0;0.04418484991397483;Baixo risco
+1601;Research & Development;Laboratory Technician;35;2690;1;No;4;2;0;0.044149417048532626;Baixo risco
+1529;Research & Development;Healthcare Representative;35;8606;11;No;2;1;0;0.04414288421244718;Baixo risco
+912;Research & Development;Laboratory Technician;29;2532;4;No;4;3;0;0.04397416613438105;Baixo risco
+105;Research & Development;Research Scientist;35;2859;6;No;3;3;0;0.04387790981350008;Baixo risco
+1459;Research & Development;Manufacturing Director;31;7446;10;No;2;3;1;0.04376033556828631;Baixo risco
+1445;Sales;Sales Executive;24;4162;5;Yes;3;3;0;0.043656627370878956;Baixo risco
+1322;Research & Development;Manufacturing Director;39;4534;8;No;3;3;0;0.043337058642926696;Baixo risco
+1936;Research & Development;Manufacturing Director;39;5151;10;No;1;3;0;0.04287903981526262;Baixo risco
+2044;Sales;Sales Executive;50;6728;6;No;3;3;1;0.04278327772122208;Baixo risco
+698;Human Resources;Human Resources;54;10725;9;No;2;4;0;0.042651461911055066;Baixo risco
+334;Research & Development;Research Scientist;41;3072;1;No;1;2;0;0.04243003844176937;Baixo risco
+1557;Sales;Sales Executive;48;6439;8;No;3;3;0;0.04222093420027041;Baixo risco
+1938;Sales;Manager;58;17875;1;Yes;4;2;0;0.042114138850272445;Baixo risco
+957;Research & Development;Laboratory Technician;41;4721;18;Yes;1;3;0;0.042090494652395324;Baixo risco
+247;Research & Development;Research Scientist;34;2311;3;No;2;3;0;0.04171048414839298;Baixo risco
+813;Research & Development;Laboratory Technician;52;3149;5;No;3;3;0;0.041194408245047845;Baixo risco
+1206;Research & Development;Research Scientist;44;2290;0;No;3;3;0;0.04113078426360296;Baixo risco
+468;Research & Development;Research Director;42;15992;1;No;4;3;0;0.04112086101664911;Baixo risco
+393;Research & Development;Healthcare Representative;38;5745;2;No;4;3;0;0.04108819650041933;Baixo risco
+1949;Research & Development;Laboratory Technician;36;2810;5;No;2;3;0;0.04105142234529528;Baixo risco
+1438;Research & Development;Research Scientist;47;3420;6;No;4;2;0;0.04102910947070474;Baixo risco
+1815;Sales;Sales Executive;41;10447;22;Yes;3;4;0;0.040983980762642494;Baixo risco
+1309;Research & Development;Laboratory Technician;32;4883;10;No;3;3;1;0.04093732568851988;Baixo risco
+132;Research & Development;Laboratory Technician;44;2042;3;No;2;4;0;0.0406014988945478;Baixo risco
+1314;Human Resources;Human Resources;46;3423;7;No;1;4;0;0.04023939389958282;Baixo risco
+1252;Research & Development;Healthcare Representative;31;6812;10;No;1;3;0;0.040110610450595496;Baixo risco
+515;Research & Development;Laboratory Technician;37;3034;18;No;1;2;0;0.039988073254968594;Baixo risco
+384;Research & Development;Manufacturing Director;26;6397;6;No;2;1;0;0.03994836398189158;Baixo risco
+1849;Sales;Sales Executive;43;5675;7;No;4;3;0;0.039668895226571535;Baixo risco
+1469;Sales;Sales Executive;28;8463;5;No;1;3;0;0.03966312656246771;Baixo risco
+709;Sales;Sales Executive;38;4028;7;No;4;3;0;0.039603059083465425;Baixo risco
+721;Research & Development;Healthcare Representative;39;4553;20;No;3;3;0;0.039421332433668216;Baixo risco
+110;Research & Development;Manufacturing Director;34;4325;5;No;2;3;0;0.03941025000834478;Baixo risco
+1744;Human Resources;Human Resources;45;9756;5;No;3;4;0;0.03934962684304881;Baixo risco
+249;Research & Development;Laboratory Technician;50;3690;3;No;3;2;0;0.03912420840477152;Baixo risco
+1114;Sales;Sales Executive;33;4302;3;No;2;3;0;0.03911878980067924;Baixo risco
+52;Sales;Sales Executive;33;5376;5;No;1;3;0;0.03899225144452526;Baixo risco
+314;Sales;Sales Executive;35;8789;10;No;3;4;0;0.03892859967643629;Baixo risco
+1032;Research & Development;Manufacturing Director;59;13726;5;Yes;4;3;0;0.038730179217128534;Baixo risco
+1619;Research & Development;Laboratory Technician;27;4066;7;No;1;3;0;0.03863130921539463;Baixo risco
+677;Sales;Sales Executive;33;7104;5;No;3;3;0;0.03836891940973731;Baixo risco
+20;Research & Development;Manufacturing Director;29;9980;10;No;1;3;0;0.038273320573316866;Baixo risco
+977;Research & Development;Research Scientist;58;2479;1;No;3;3;1;0.03816296334968838;Baixo risco
+218;Research & Development;Research Scientist;27;2024;2;No;2;1;0;0.03785678824987624;Baixo risco
+419;Research & Development;Laboratory Technician;36;5674;9;No;2;3;0;0.03768479529798072;Baixo risco
+476;Sales;Sales Executive;26;5296;8;No;3;3;0;0.037582556166579476;Baixo risco
+1029;Sales;Manager;42;18303;1;No;3;4;0;0.037218862224037176;Baixo risco
+1068;Research & Development;Research Scientist;26;2007;5;No;3;3;0;0.036915620505167134;Baixo risco
+1706;Sales;Sales Executive;43;7847;10;Yes;4;3;0;0.036729357606226365;Baixo risco
+1446;Sales;Sales Executive;32;9204;4;No;4;2;0;0.03670348051616876;Baixo risco
+1909;Sales;Sales Executive;41;4393;5;No;2;3;0;0.03666291006059467;Baixo risco
+439;Research & Development;Research Scientist;32;5055;7;No;4;2;0;0.03631976140620832;Baixo risco
+1555;Research & Development;Research Scientist;32;5878;7;No;2;3;0;0.035952366271475134;Baixo risco
+1118;Research & Development;Healthcare Representative;52;10445;8;No;2;3;0;0.03585130984645968;Baixo risco
+1852;Research & Development;Laboratory Technician;29;3812;11;No;4;4;0;0.03576520249030241;Baixo risco
+102;Research & Development;Research Director;37;13664;5;No;3;4;0;0.03564487004533913;Baixo risco
+969;Research & Development;Healthcare Representative;33;6949;5;No;4;3;0;0.0354125771643726;Baixo risco
+1892;Research & Development;Manager;40;16823;19;No;1;3;0;0.03540039620236557;Baixo risco
+1080;Research & Development;Research Scientist;46;4615;16;Yes;1;3;0;0.0351413752906549;Baixo risco
+1466;Sales;Sales Executive;48;5486;2;No;1;3;0;0.034981953012803005;Baixo risco
+241;Research & Development;Research Scientist;56;4257;2;Yes;1;3;0;0.03471813297650426;Baixo risco
+1513;Research & Development;Laboratory Technician;29;3180;3;No;2;3;0;0.03460378914006775;Baixo risco
+616;Research & Development;Healthcare Representative;41;6811;8;Yes;3;3;0;0.03452798991187388;Baixo risco
+304;Research & Development;Laboratory Technician;36;5914;13;No;2;4;0;0.034496250923654846;Baixo risco
+1918;Research & Development;Laboratory Technician;26;2544;7;No;4;3;0;0.034365936266074926;Baixo risco
+339;Research & Development;Manufacturing Director;34;5957;11;No;1;3;0;0.03428201738986811;Baixo risco
+1161;Research & Development;Healthcare Representative;37;5731;6;No;4;3;0;0.03424547369888462;Baixo risco
+2019;Sales;Sales Representative;52;3482;9;No;4;2;0;0.034228560880179275;Baixo risco
+458;Sales;Sales Executive;27;6214;8;No;2;3;0;0.03412478460117154;Baixo risco
+1922;Research & Development;Healthcare Representative;45;5399;4;No;3;3;0;0.03394388018490838;Baixo risco
+465;Research & Development;Research Scientist;23;2904;4;No;4;2;0;0.03389231843601444;Baixo risco
+1745;Research & Development;Research Scientist;30;4968;9;No;1;3;0;0.033752981015533694;Baixo risco
+1257;Research & Development;Research Scientist;36;3692;11;No;2;2;0;0.033706468277201744;Baixo risco
+825;Research & Development;Research Director;58;19246;31;Yes;2;3;1;0.03359168370721553;Baixo risco
+630;Research & Development;Research Scientist;52;5577;10;Yes;1;3;0;0.033389167211759455;Baixo risco
+1457;Sales;Sales Executive;46;10096;7;No;4;4;1;0.03331474478609683;Baixo risco
+1084;Research & Development;Manufacturing Director;30;9957;6;No;1;2;0;0.0332938552214914;Baixo risco
+714;Sales;Sales Executive;27;4647;6;Yes;4;3;0;0.03305642999627149;Baixo risco
+1241;Research & Development;Research Scientist;30;3579;11;Yes;2;3;0;0.03296632440311744;Baixo risco
+54;Research & Development;Laboratory Technician;27;2341;1;No;1;3;0;0.03294537767805912;Baixo risco
+1994;Research & Development;Laboratory Technician;33;2008;1;No;3;2;0;0.032733159249906704;Baixo risco
+1278;Research & Development;Healthcare Representative;55;13577;33;Yes;2;3;0;0.03256187133867736;Baixo risco
+2036;Sales;Sales Executive;36;5406;15;No;4;2;0;0.032150958768434136;Baixo risco
+930;Research & Development;Research Scientist;28;2377;2;No;3;3;0;0.03203156037522705;Baixo risco
+2048;Research & Development;Research Scientist;40;2809;2;No;3;3;0;0.032009858020450366;Baixo risco
+35;Sales;Sales Executive;42;6825;9;No;2;3;0;0.031930838008865335;Baixo risco
+273;Research & Development;Manufacturing Director;38;6261;7;No;4;1;0;0.03192881087594415;Baixo risco
+13;Research & Development;Healthcare Representative;36;5237;7;No;3;2;0;0.03188121644487301;Baixo risco
+242;Research & Development;Research Scientist;33;2500;3;No;4;4;0;0.03184941902245451;Baixo risco
+1898;Sales;Sales Executive;27;6500;8;No;3;2;0;0.03142782192680219;Baixo risco
+844;Research & Development;Research Director;27;12808;9;Yes;4;3;0;0.03126602531766994;Baixo risco
+611;Research & Development;Manufacturing Director;29;4262;3;No;4;4;0;0.03119776278606509;Baixo risco
+228;Sales;Sales Executive;30;9419;10;No;4;3;0;0.0311773673191386;Baixo risco
+1062;Research & Development;Healthcare Representative;37;4107;4;No;2;2;0;0.031171299538024496;Baixo risco
+621;Sales;Sales Executive;34;5337;10;No;4;3;0;0.031106313154555632;Baixo risco
+1137;Sales;Sales Executive;35;4968;5;No;4;3;0;0.030882845097296413;Baixo risco
+1800;Research & Development;Research Director;39;13464;4;No;3;3;0;0.030877801693226972;Baixo risco
+1798;Research & Development;Research Scientist;33;3143;10;No;1;3;0;0.030862922729988196;Baixo risco
+283;Sales;Sales Executive;29;7639;10;No;4;2;1;0.030741984083860315;Baixo risco
+1847;Research & Development;Research Scientist;36;6962;1;Yes;2;3;0;0.030733246341845585;Baixo risco
+335;Research & Development;Research Scientist;40;3319;9;No;4;3;0;0.030642548534278967;Baixo risco
+1338;Human Resources;Manager;56;19717;7;No;2;3;0;0.03060837371896284;Baixo risco
+1721;Research & Development;Laboratory Technician;31;3477;5;No;3;4;0;0.03056203802014469;Baixo risco
+1166;Research & Development;Research Director;40;13499;18;No;3;2;0;0.030509680907129504;Baixo risco
+1050;Sales;Sales Executive;53;7525;15;No;2;3;0;0.030435475391898347;Baixo risco
+661;Research & Development;Research Director;43;16627;1;Yes;4;2;0;0.030372823869607844;Baixo risco
+1729;Research & Development;Research Scientist;30;2862;10;No;4;2;0;0.03035289017235599;Baixo risco
+497;Research & Development;Laboratory Technician;27;3816;5;No;2;3;0;0.030331335547293767;Baixo risco
+1358;Research & Development;Laboratory Technician;25;3669;3;No;4;2;0;0.030317266624760142;Baixo risco
+1654;Research & Development;Manufacturing Director;39;5295;5;No;2;3;0;0.030261282765822656;Baixo risco
+1374;Research & Development;Research Scientist;34;2029;5;No;3;3;0;0.030260012055512903;Baixo risco
+1993;Research & Development;Healthcare Representative;47;8633;17;No;3;3;0;0.030155574795067988;Baixo risco
+1221;Research & Development;Laboratory Technician;36;2741;7;No;3;3;0;0.030055583806164392;Baixo risco
+483;Research & Development;Laboratory Technician;40;2213;7;Yes;3;3;0;0.029941380498472857;Baixo risco
+1829;Research & Development;Healthcare Representative;40;4448;7;No;1;3;0;0.029937800940408998;Baixo risco
+1025;Research & Development;Manufacturing Director;41;5003;2;No;3;3;0;0.029930745125621952;Baixo risco
+1417;Research & Development;Laboratory Technician;26;3578;7;No;1;3;0;0.02983101385314048;Baixo risco
+1948;Research & Development;Research Scientist;31;3065;4;Yes;1;4;0;0.029503575077743097;Baixo risco
+624;Research & Development;Healthcare Representative;46;10527;2;No;3;2;0;0.029480365044473055;Baixo risco
+1190;Sales;Sales Representative;32;2827;1;No;1;3;0;0.029409959174066764;Baixo risco
+601;Research & Development;Manufacturing Director;40;13237;20;No;3;3;0;0.02928959588213256;Baixo risco
+101;Research & Development;Research Director;45;13245;0;Yes;1;4;0;0.028994756359055147;Baixo risco
+406;Sales;Sales Executive;35;8020;11;No;2;2;0;0.028956442417998607;Baixo risco
+1060;Research & Development;Research Scientist;38;2821;2;No;3;3;0;0.028552316854650872;Baixo risco
+158;Sales;Manager;43;16959;25;Yes;4;4;0;0.028477920162368553;Baixo risco
+1152;Human Resources;Human Resources;38;2844;7;No;3;4;0;0.028404854686835325;Baixo risco
+1803;Research & Development;Healthcare Representative;42;5538;0;No;1;2;0;0.02835431370143009;Baixo risco
+715;Research & Development;Research Scientist;37;4680;1;No;4;3;0;0.028303243223184945;Baixo risco
+626;Sales;Sales Executive;37;8834;9;No;2;3;0;0.027934844965149003;Baixo risco
+1756;Sales;Sales Executive;33;5147;11;No;2;2;0;0.02785840914486565;Baixo risco
+704;Research & Development;Laboratory Technician;35;1281;1;No;3;3;0;0.02774635349741102;Baixo risco
+126;Research & Development;Research Director;54;13549;4;No;3;1;0;0.027688866140775186;Baixo risco
+1965;Sales;Sales Executive;27;4105;7;No;4;3;0;0.027633786266033557;Baixo risco
+177;Human Resources;Human Resources;26;2942;8;No;3;3;0;0.027617507880280032;Baixo risco
+1631;Research & Development;Manufacturing Director;37;5768;4;No;3;2;0;0.02760667139939294;Baixo risco
+1471;Research & Development;Laboratory Technician;44;3162;5;No;3;3;0;0.0275235866832557;Baixo risco
+1982;Research & Development;Laboratory Technician;23;2647;5;No;4;4;0;0.027503081991205304;Baixo risco
+1543;Research & Development;Research Scientist;37;4285;10;No;4;3;0;0.02733284499554969;Baixo risco
+271;Research & Development;Manufacturing Director;38;6553;1;No;3;3;0;0.027326509910462288;Baixo risco
+53;Research & Development;Laboratory Technician;35;1951;1;No;4;3;0;0.027257160080990658;Baixo risco
+712;Sales;Sales Executive;48;8120;2;No;2;3;0;0.027059266085365657;Baixo risco
+227;Research & Development;Research Scientist;41;2451;9;No;3;3;0;0.02699033923452081;Baixo risco
+1184;Research & Development;Healthcare Representative;34;5343;13;No;1;3;0;0.026941754234709504;Baixo risco
+857;Sales;Sales Executive;36;6201;18;Yes;4;2;0;0.02692444367901442;Baixo risco
+1947;Research & Development;Research Scientist;28;2144;5;No;3;2;0;0.026897674536434452;Baixo risco
+340;Research & Development;Research Scientist;37;3920;3;No;1;2;0;0.026860752383077884;Baixo risco
+1289;Human Resources;Human Resources;34;4490;10;No;2;4;0;0.02675201418025479;Baixo risco
+353;Research & Development;Research Scientist;51;2723;1;No;4;2;0;0.02672864453164661;Baixo risco
+733;Research & Development;Manufacturing Director;27;8793;9;No;1;2;0;0.026606496766632;Baixo risco
+264;Research & Development;Manager;45;16792;20;No;4;3;0;0.02653941598836477;Baixo risco
+682;Sales;Sales Executive;53;8381;14;No;1;4;0;0.02628721648757454;Baixo risco
+341;Research & Development;Manufacturing Director;45;6434;3;No;3;3;0;0.026273873222425196;Baixo risco
+1482;Research & Development;Research Scientist;30;1274;1;No;3;2;0;0.026129657873807978;Baixo risco
+1073;Research & Development;Manufacturing Director;36;8858;14;No;4;2;0;0.025968582808419315;Baixo risco
+843;Research & Development;Research Director;43;17159;4;No;1;3;0;0.02590668908566857;Baixo risco
+1039;Sales;Sales Executive;44;13320;12;Yes;4;3;0;0.02578342798466122;Baixo risco
+1794;Human Resources;Human Resources;37;4071;10;No;2;2;0;0.025618195959939017;Baixo risco
+787;Research & Development;Manager;55;19859;5;Yes;1;3;1;0.0255381831033668;Baixo risco
+1687;Research & Development;Laboratory Technician;38;3306;0;No;3;2;0;0.02525011195288576;Baixo risco
+595;Sales;Sales Executive;48;4051;9;No;4;3;0;0.025066719241520697;Baixo risco
+897;Sales;Sales Executive;53;11836;2;No;4;3;0;0.02502464374075136;Baixo risco
+562;Research & Development;Laboratory Technician;30;2097;5;No;4;1;0;0.024901760210701594;Baixo risco
+1120;Research & Development;Research Scientist;29;2514;7;No;4;3;0;0.024886827627068404;Baixo risco
+1499;Human Resources;Human Resources;30;2064;5;No;3;4;0;0.024618489612737764;Baixo risco
+1516;Research & Development;Manager;32;11244;5;No;4;4;0;0.024600419997345857;Baixo risco
+1574;Research & Development;Research Scientist;32;4087;6;No;1;2;0;0.02443541856054733;Baixo risco
+1501;Research & Development;Healthcare Representative;55;4035;3;Yes;3;3;0;0.024392144424668576;Baixo risco
+1478;Sales;Sales Executive;34;4759;13;No;1;3;0;0.023746209200435568;Baixo risco
+332;Research & Development;Laboratory Technician;39;2232;3;No;3;3;0;0.023651170285665195;Baixo risco
+1962;Sales;Sales Executive;35;5204;10;Yes;4;3;0;0.023417865935128714;Baixo risco
+981;Sales;Manager;53;14852;17;No;3;4;0;0.023256368218954444;Baixo risco
+1027;Research & Development;Manufacturing Director;27;4227;3;No;4;3;0;0.02318880249738509;Baixo risco
+302;Sales;Sales Executive;45;8865;19;No;4;3;0;0.023033903481471496;Baixo risco
+244;Sales;Sales Executive;46;10453;24;No;1;3;0;0.022949797044216496;Baixo risco
+118;Sales;Sales Executive;46;9619;9;No;4;3;1;0.02293990910083758;Baixo risco
+1367;Research & Development;Manufacturing Director;51;13142;5;No;2;2;0;0.022920479794679195;Baixo risco
+707;Sales;Sales Executive;25;4851;3;No;2;3;0;0.02288379633745644;Baixo risco
+412;Research & Development;Healthcare Representative;28;5661;8;No;1;3;0;0.022389522856278606;Baixo risco
+1854;Research & Development;Research Scientist;42;2936;6;No;3;2;0;0.022357329114417117;Baixo risco
+1312;Research & Development;Healthcare Representative;36;7094;7;No;3;3;0;0.02232518903015499;Baixo risco
+728;Sales;Sales Executive;47;4960;7;No;1;3;0;0.02230516497183745;Baixo risco
+421;Research & Development;Research Director;38;12061;10;No;2;3;0;0.022223460283652508;Baixo risco
+1573;Research & Development;Manufacturing Director;38;4855;5;No;2;3;1;0.02193419343020136;Baixo risco
+1497;Sales;Sales Executive;29;8620;10;No;3;3;0;0.021892009178260036;Baixo risco
+1265;Research & Development;Research Scientist;34;2585;1;No;3;2;0;0.021542803015634375;Baixo risco
+1143;Research & Development;Research Scientist;29;3291;7;No;2;2;0;0.02139438994607308;Baixo risco
+420;Sales;Sales Executive;32;5484;13;No;3;2;0;0.021392117773437743;Baixo risco
+1582;Sales;Sales Executive;38;9924;9;No;2;3;0;0.021370809310031148;Baixo risco
+1431;Research & Development;Research Scientist;34;2996;4;No;1;3;0;0.021313676671805667;Baixo risco
+1349;Sales;Sales Executive;41;4103;9;No;1;3;0;0.021293044221241727;Baixo risco
+499;Research & Development;Healthcare Representative;49;10965;5;No;3;3;0;0.021238766507145394;Baixo risco
+722;Sales;Sales Executive;32;5396;10;No;4;2;0;0.0212327811280616;Baixo risco
+1592;Research & Development;Research Scientist;23;2073;2;No;3;3;0;0.021150221831948708;Baixo risco
+1553;Research & Development;Healthcare Representative;45;7441;10;No;2;3;0;0.021105557933768837;Baixo risco
+338;Research & Development;Research Scientist;33;2911;2;No;4;2;0;0.02110040505448595;Baixo risco
+1751;Research & Development;Research Scientist;27;3445;6;No;4;2;0;0.0210478162065613;Baixo risco
+924;Research & Development;Healthcare Representative;36;6586;16;Yes;4;2;0;0.02103883159196504;Baixo risco
+597;Sales;Manager;55;16835;10;No;2;3;0;0.020749377501003696;Baixo risco
+1473;Research & Development;Healthcare Representative;49;6651;3;No;3;2;0;0.02065322408318074;Baixo risco
+742;Research & Development;Research Director;36;11713;8;No;1;3;0;0.020639134007559443;Baixo risco
+532;Sales;Sales Executive;56;13212;7;No;1;2;0;0.020581677450175796;Baixo risco
+1254;Sales;Sales Executive;59;5171;6;No;4;3;0;0.02049004955699354;Baixo risco
+1786;Research & Development;Manager;51;13116;2;No;3;3;0;0.020373424694028534;Baixo risco
+469;Sales;Sales Executive;29;4649;4;No;3;2;0;0.02028285455297913;Baixo risco
+567;Sales;Sales Executive;30;8412;9;No;1;3;0;0.020109923056241666;Baixo risco
+349;Sales;Sales Executive;29;6931;3;No;4;3;0;0.019997956662159047;Baixo risco
+717;Research & Development;Healthcare Representative;34;8621;8;No;2;4;0;0.019934792271680733;Baixo risco
+2007;Research & Development;Research Scientist;22;3375;3;No;3;4;0;0.0199180161825975;Baixo risco
+1293;Sales;Sales Executive;43;10231;21;No;4;4;0;0.019915329103455715;Baixo risco
+1951;Sales;Sales Executive;34;8628;8;No;3;2;0;0.019800742216409817;Baixo risco
+655;Research & Development;Research Scientist;27;2187;5;No;3;2;0;0.019792448808972494;Baixo risco
+1527;Sales;Manager;46;16606;13;No;2;4;0;0.019789239349152277;Baixo risco
+217;Research & Development;Research Scientist;22;2323;2;No;4;3;0;0.01969464585116441;Baixo risco
+1858;Human Resources;Human Resources;28;2706;3;No;4;3;0;0.019627012920341826;Baixo risco
+942;Research & Development;Healthcare Representative;35;4014;10;Yes;4;1;0;0.019597414445478377;Baixo risco
+129;Sales;Sales Executive;28;4221;5;No;3;4;0;0.019556312864461706;Baixo risco
+1015;Research & Development;Research Director;30;11416;8;Yes;1;2;0;0.019508097545377582;Baixo risco
+855;Sales;Sales Executive;33;4037;9;No;1;3;0;0.01936486980758944;Baixo risco
+2057;Research & Development;Manufacturing Director;31;9936;9;No;1;3;0;0.019317618138189108;Baixo risco
+958;Research & Development;Laboratory Technician;36;2519;11;No;3;3;0;0.019225793528116885;Baixo risco
+1368;Research & Development;Laboratory Technician;18;1611;0;No;4;4;0;0.019109885724798215;Baixo risco
+387;Sales;Sales Executive;42;4907;20;No;3;3;0;0.01907907838919856;Baixo risco
+1267;Sales;Manager;44;18213;22;No;2;3;0;0.01907732434997218;Baixo risco
+526;Research & Development;Healthcare Representative;43;4522;5;Yes;3;3;0;0.01905672487149518;Baixo risco
+211;Research & Development;Manufacturing Director;51;6132;1;No;3;3;0;0.019028463181224455;Baixo risco
+260;Research & Development;Research Scientist;27;2279;7;No;2;2;0;0.018957476486938463;Baixo risco
+202;Research & Development;Research Scientist;40;5605;20;No;2;3;0;0.018855031839527418;Baixo risco
+1764;Research & Development;Research Scientist;32;2718;7;No;2;3;0;0.018832082042911712;Baixo risco
+1308;Research & Development;Research Scientist;58;2372;2;No;3;3;0;0.01875255198528151;Baixo risco
+516;Sales;Sales Executive;40;5715;5;No;2;3;0;0.01869653874466747;Baixo risco
+1074;Research & Development;Manager;55;16756;9;No;1;4;0;0.01866012517980092;Baixo risco
+1677;Research & Development;Manager;49;15379;8;No;3;3;0;0.018436129713917913;Baixo risco
+1259;Research & Development;Research Scientist;27;2517;5;No;3;3;0;0.018424010354917995;Baixo risco
+1595;Research & Development;Manager;42;19613;1;No;4;3;0;0.01838649089708936;Baixo risco
+2024;Sales;Sales Executive;36;7644;9;No;4;3;0;0.01830591870615684;Baixo risco
+2035;Sales;Sales Executive;34;6712;8;No;3;3;0;0.018299066029057013;Baixo risco
+902;Research & Development;Healthcare Representative;43;5562;5;No;4;2;0;0.018162862096605878;Baixo risco
+869;Human Resources;Human Resources;28;4936;5;No;4;3;0;0.018074916097658014;Baixo risco
+1270;Research & Development;Research Scientist;23;1223;1;No;3;3;0;0.01803770265881373;Baixo risco
+1937;Research & Development;Research Scientist;38;2133;20;Yes;2;3;0;0.0180296588683827;Baixo risco
+204;Sales;Sales Executive;35;7295;10;No;2;3;0;0.01788429068760373;Baixo risco
+544;Research & Development;Research Scientist;45;2654;2;No;4;2;0;0.01780061748774181;Baixo risco
+944;Research & Development;Laboratory Technician;49;7403;26;No;2;2;0;0.01777511362313191;Baixo risco
+1369;Research & Development;Laboratory Technician;35;5363;9;No;4;3;0;0.017681104304926105;Baixo risco
+575;Research & Development;Research Director;46;17861;3;No;3;1;0;0.017677338995803482;Baixo risco
+312;Sales;Sales Executive;29;7918;11;No;4;3;0;0.017673799374790487;Baixo risco
+1755;Research & Development;Research Scientist;34;2932;5;Yes;4;3;0;0.017501027521403173;Baixo risco
+966;Research & Development;Manufacturing Director;32;6725;8;No;1;4;0;0.017456727405240804;Baixo risco
+378;Sales;Sales Executive;37;6502;5;No;4;4;0;0.0173892591754843;Baixo risco
+865;Research & Development;Research Scientist;32;5175;5;No;3;2;0;0.017353099215016144;Baixo risco
+239;Research & Development;Laboratory Technician;30;3072;12;No;1;3;0;0.017337596485392955;Baixo risco
+1757;Sales;Sales Executive;49;4507;5;No;4;4;0;0.017305018163054915;Baixo risco
+2041;Sales;Sales Executive;38;5343;10;No;4;3;0;0.017237366703058712;Baixo risco
+571;Research & Development;Laboratory Technician;30;2564;11;No;4;2;0;0.017203771906990753;Baixo risco
+1182;Research & Development;Manufacturing Director;35;10274;7;No;2;4;0;0.017128409471440974;Baixo risco
+1986;Sales;Sales Executive;40;5677;11;No;2;3;0;0.01710570485997645;Baixo risco
+1866;Research & Development;Manager;43;19392;16;No;3;3;0;0.017078396814518823;Baixo risco
+1523;Research & Development;Research Director;44;16328;20;No;1;4;0;0.01688439852985313;Baixo risco
+63;Research & Development;Laboratory Technician;35;2269;1;No;4;3;0;0.01663392098528944;Baixo risco
+623;Research & Development;Manufacturing Director;37;7491;6;No;4;4;0;0.016574901559272857;Baixo risco
+826;Research & Development;Research Scientist;35;2506;2;No;3;3;0;0.016562366845902062;Baixo risco
+226;Research & Development;Manager;50;19926;5;No;2;3;0;0.016502043604375523;Baixo risco
+471;Research & Development;Laboratory Technician;32;2370;8;No;2;3;0;0.016471454910509213;Baixo risco
+1133;Research & Development;Manufacturing Director;36;7779;11;No;4;3;0;0.016420793843926498;Baixo risco
+1590;Research & Development;Healthcare Representative;29;8853;6;No;4;4;0;0.01641616773337289;Baixo risco
+1346;Research & Development;Research Scientist;40;4661;9;No;4;3;0;0.016406952488161156;Baixo risco
+153;Research & Development;Manager;34;11631;11;No;1;3;0;0.016389920568311893;Baixo risco
+154;Sales;Sales Executive;36;9738;9;No;4;3;0;0.01638596031424374;Baixo risco
+372;Research & Development;Healthcare Representative;45;13496;20;Yes;4;3;0;0.01632054960310802;Baixo risco
+450;Research & Development;Research Scientist;54;4869;4;No;3;2;0;0.01623662302723588;Baixo risco
+58;Research & Development;Research Director;41;19545;22;No;3;3;1;0.01622539949385823;Baixo risco
+162;Research & Development;Research Director;51;19537;20;No;3;3;0;0.01617322625311826;Baixo risco
+797;Research & Development;Research Scientist;34;3280;4;No;4;3;0;0.0160302212201592;Baixo risco
+1552;Research & Development;Healthcare Representative;40;4069;2;Yes;4;3;0;0.015984578091014064;Baixo risco
+1737;Research & Development;Laboratory Technician;39;6472;9;Yes;4;3;0;0.01597311231440172;Baixo risco
+1969;Research & Development;Research Scientist;54;2897;4;No;3;2;0;0.015885495502749748;Baixo risco
+501;Research & Development;Research Scientist;36;2543;2;No;3;3;0;0.015832708688673407;Baixo risco
+1628;Research & Development;Manufacturing Director;40;10435;18;No;3;3;0;0.015817728362444064;Baixo risco
+534;Sales;Sales Executive;41;8392;10;No;1;3;0;0.015809167208072846;Baixo risco
+143;Research & Development;Research Scientist;25;2889;2;No;4;3;0;0.01558786914322662;Baixo risco
+1871;Research & Development;Research Scientist;39;3902;2;No;4;3;0;0.01558305144156895;Baixo risco
+949;Research & Development;Research Scientist;36;4678;6;No;4;3;0;0.015573859503225191;Baixo risco
+631;Sales;Sales Executive;32;4707;4;No;3;3;1;0.015375860529898448;Baixo risco
+1651;Research & Development;Healthcare Representative;36;8008;3;No;1;3;0;0.015359916488028478;Baixo risco
+160;Sales;Sales Executive;33;6146;7;No;2;4;0;0.015332438470014333;Baixo risco
+410;Sales;Manager;41;16015;22;No;2;3;0;0.015164933808308256;Baixo risco
+42;Sales;Sales Representative;39;2086;1;No;4;4;1;0.01507639220954383;Baixo risco
+1693;Research & Development;Laboratory Technician;26;2570;7;No;4;3;0;0.015063263951409724;Baixo risco
+1061;Research & Development;Research Director;50;19237;8;Yes;3;2;0;0.015026847578583259;Baixo risco
+477;Research & Development;Healthcare Representative;42;6781;1;No;4;3;0;0.01497534448071682;Baixo risco
+1009;Research & Development;Manufacturing Director;24;4377;4;No;3;3;0;0.014936828177690702;Baixo risco
+1834;Research & Development;Research Scientist;28;3591;3;No;1;3;0;0.0149236848261949;Baixo risco
+1873;Research & Development;Research Scientist;55;2662;5;No;4;4;0;0.01474861831066792;Baixo risco
+524;Research & Development;Manufacturing Director;31;4306;13;No;1;1;0;0.014697930903835817;Baixo risco
+2;Research & Development;Research Scientist;49;5130;10;No;2;3;0;0.0146832378308324;Baixo risco
+710;Research & Development;Research Scientist;29;2720;10;No;4;3;0;0.014659886450667955;Baixo risco
+461;Research & Development;Research Director;38;11510;11;Yes;4;3;0;0.014614353055601971;Baixo risco
+1177;Research & Development;Laboratory Technician;26;4420;8;No;4;3;0;0.014612671021568022;Baixo risco
+1588;Sales;Sales Executive;39;8237;7;No;3;3;0;0.014589717932871069;Baixo risco
+1789;Research & Development;Research Director;46;19328;2;Yes;4;3;0;0.014461646081474464;Baixo risco
+350;Research & Development;Manufacturing Director;25;4898;4;No;3;3;0;0.014426291307325673;Baixo risco
+887;Research & Development;Research Scientist;49;3580;4;No;1;3;0;0.014220135614920956;Baixo risco
+1099;Research & Development;Healthcare Representative;33;7119;3;No;4;3;0;0.014130222713410346;Baixo risco
+491;Research & Development;Healthcare Representative;50;10496;4;No;4;3;0;0.014007974398065259;Baixo risco
+945;Research & Development;Research Scientist;48;2259;0;No;3;2;0;0.013993105628983636;Baixo risco
+985;Sales;Sales Executive;39;7880;8;No;3;3;0;0.013953908621139363;Baixo risco
+905;Research & Development;Manager;50;17924;31;No;1;3;0;0.013935901421254695;Baixo risco
+2025;Research & Development;Manufacturing Director;36;5131;4;No;2;3;0;0.013770277521802427;Baixo risco
+327;Sales;Manager;43;16064;17;Yes;4;3;0;0.013735513546303138;Baixo risco
+1778;Human Resources;Human Resources;43;3539;9;No;4;3;0;0.01366636869458041;Baixo risco
+1644;Research & Development;Manager;48;15202;2;No;4;3;0;0.013636038948531144;Baixo risco
+1268;Sales;Sales Executive;33;8380;9;Yes;3;3;0;0.013574418206209742;Baixo risco
+716;Research & Development;Laboratory Technician;50;3221;20;Yes;3;3;0;0.013531344052391262;Baixo risco
+2034;Research & Development;Manufacturing Director;41;13570;20;No;2;3;0;0.013490139533823909;Baixo risco
+1544;Research & Development;Healthcare Representative;29;9715;7;No;1;3;0;0.013480283221790198;Baixo risco
+287;Research & Development;Healthcare Representative;40;4876;3;No;4;1;0;0.013244873805944572;Baixo risco
+452;Research & Development;Research Scientist;45;3697;10;No;4;3;0;0.012972859673985607;Baixo risco
+76;Research & Development;Laboratory Technician;31;5915;7;No;4;2;0;0.012924351826678816;Baixo risco
+2065;Sales;Sales Executive;49;5390;9;No;2;2;0;0.012859410114702815;Baixo risco
+1546;Research & Development;Research Scientist;45;2132;5;No;4;3;0;0.012765944787832825;Baixo risco
+880;Research & Development;Manufacturing Director;35;10685;17;Yes;3;3;0;0.012745262276237238;Baixo risco
+1355;Sales;Sales Executive;38;6893;7;No;1;3;0;0.012677172902962042;Baixo risco
+1602;Sales;Manager;46;17567;26;No;1;1;0;0.012676945341138904;Baixo risco
+2037;Sales;Sales Executive;41;8938;5;No;2;3;0;0.012653750668965721;Baixo risco
+2062;Research & Development;Healthcare Representative;39;9991;7;No;1;3;0;0.012636495199919006;Baixo risco
+2052;Research & Development;Research Scientist;35;2977;4;No;4;3;0;0.01250182930034562;Baixo risco
+692;Research & Development;Healthcare Representative;33;7725;13;No;4;1;0;0.012475210902645032;Baixo risco
+1231;Human Resources;Human Resources;42;6272;4;No;1;4;0;0.012441391456919821;Baixo risco
+292;Research & Development;Manufacturing Director;30;8474;11;No;3;3;0;0.012435346167763487;Baixo risco
+769;Research & Development;Laboratory Technician;53;2450;2;No;4;3;0;0.012396898756819246;Baixo risco
+940;Research & Development;Healthcare Representative;58;10552;6;Yes;2;3;0;0.012340939508873777;Baixo risco
+909;Human Resources;Human Resources;39;5204;5;No;4;3;0;0.01218210431693171;Baixo risco
+1109;Research & Development;Manager;42;17665;22;No;1;3;0;0.012133207220982978;Baixo risco
+1782;Research & Development;Laboratory Technician;38;3702;5;No;3;3;0;0.012119725761293021;Baixo risco
+882;Research & Development;Laboratory Technician;32;2314;3;No;4;3;0;0.012018462380460082;Baixo risco
+1763;Research & Development;Healthcare Representative;30;5294;7;No;3;3;0;0.01182974796922977;Baixo risco
+1823;Sales;Sales Executive;34;6799;10;No;3;3;0;0.01171599846246692;Baixo risco
+1989;Research & Development;Laboratory Technician;30;3748;12;No;2;2;0;0.01155591022777693;Baixo risco
+1638;Research & Development;Manufacturing Director;38;7756;5;Yes;3;4;0;0.011459023055933479;Baixo risco
+1124;Sales;Manager;46;17465;12;No;3;3;0;0.011072060990098855;Baixo risco
+505;Research & Development;Manager;55;16659;5;Yes;4;3;0;0.01087017614127994;Baixo risco
+479;Sales;Sales Executive;36;6653;1;No;4;3;0;0.010861202984931555;Baixo risco
+1352;Human Resources;Manager;51;14026;33;Yes;2;3;0;0.010795182425317835;Baixo risco
+1233;Sales;Sales Executive;60;5220;11;Yes;4;3;0;0.010779277080908907;Baixo risco
+1703;Research & Development;Healthcare Representative;44;7879;8;Yes;4;3;0;0.010741004829668497;Baixo risco
+734;Human Resources;Manager;41;19189;22;No;3;3;0;0.010712689752870094;Baixo risco
+851;Sales;Manager;51;16307;20;No;3;2;0;0.010668091660005067;Baixo risco
+1256;Research & Development;Manager;49;18711;1;No;3;4;0;0.01065685830960879;Baixo risco
+28;Research & Development;Research Director;34;11994;12;No;2;3;0;0.010633594003915177;Baixo risco
+2022;Research & Development;Manager;39;19431;6;No;4;2;0;0.010582565696977441;Baixo risco
+599;Sales;Sales Executive;41;6230;14;No;4;3;0;0.010569437136923704;Baixo risco
+256;Research & Development;Manufacturing Director;34;9547;10;No;3;2;0;0.010552760744468757;Baixo risco
+1225;Research & Development;Research Scientist;44;4541;20;No;4;3;0;0.010524359227071905;Baixo risco
+86;Research & Development;Research Scientist;45;9724;1;No;1;3;0;0.010446403633121453;Baixo risco
+947;Sales;Sales Executive;31;6932;9;No;3;2;0;0.010284679378687933;Baixo risco
+306;Research & Development;Research Director;37;12185;10;Yes;4;3;0;0.010265911057783053;Baixo risco
+2017;Research & Development;Research Director;37;13744;16;Yes;4;3;0;0.010259079301910405;Baixo risco
+1618;Research & Development;Manufacturing Director;39;5377;7;No;1;3;0;0.01016022130341591;Baixo risco
+1315;Research & Development;Laboratory Technician;28;6674;9;No;4;3;0;0.010092285613886507;Baixo risco
+117;Research & Development;Healthcare Representative;30;4152;11;No;4;3;0;0.010020400167137799;Baixo risco
+786;Sales;Sales Executive;34;6274;6;No;4;3;0;0.009999071135881051;Baixo risco
+374;Research & Development;Manager;55;19045;36;Yes;1;3;0;0.009941250940403436;Baixo risco
+1911;Research & Development;Research Director;42;13348;13;No;1;4;0;0.009912851772613125;Baixo risco
+522;Research & Development;Research Director;54;19406;4;No;1;2;0;0.009881551099252109;Baixo risco
+422;Research & Development;Healthcare Representative;58;5660;5;Yes;3;3;0;0.009801764384352277;Baixo risco
+972;Research & Development;Laboratory Technician;45;4447;9;No;2;2;0;0.009735970996047975;Baixo risco
+106;Sales;Sales Executive;55;10239;1;No;4;3;0;0.00970120927788814;Baixo risco
+1625;Human Resources;Manager;47;19658;5;No;3;3;0;0.009591628204970545;Baixo risco
+1903;Research & Development;Healthcare Representative;44;5033;2;No;1;3;0;0.00958118061208854;Baixo risco
+1005;Research & Development;Manufacturing Director;50;13973;12;Yes;3;3;0;0.009580473257123056;Baixo risco
+309;Research & Development;Research Scientist;59;2177;1;No;4;3;0;0.009548513031941982;Baixo risco
+1024;Research & Development;Healthcare Representative;48;10999;15;No;3;3;0;0.00945452226320095;Baixo risco
+2008;Research & Development;Research Scientist;35;5098;10;No;3;3;0;0.009438971601584302;Baixo risco
+170;Research & Development;Manufacturing Director;49;6567;15;No;1;2;0;0.009404425521158291;Baixo risco
+1128;Research & Development;Research Director;40;19626;20;No;3;4;0;0.009364000704473562;Baixo risco
+395;Research & Development;Research Scientist;28;3310;5;No;4;3;0;0.009327898651141158;Baixo risco
+456;Sales;Sales Executive;30;6118;10;No;3;3;0;0.009323005645758414;Baixo risco
+987;Research & Development;Manufacturing Director;47;5067;19;Yes;3;4;0;0.009205803290806185;Baixo risco
+1441;Research & Development;Research Scientist;56;2066;3;No;1;4;0;0.009146353525067489;Baixo risco
+564;Research & Development;Research Director;29;11935;10;No;3;3;0;0.009101120099519097;Baixo risco
+1775;Research & Development;Manufacturing Director;53;12965;3;Yes;3;2;0;0.009019678588540301;Baixo risco
+725;Research & Development;Manufacturing Director;27;7412;9;No;1;3;0;0.008991669885093711;Baixo risco
+1249;Research & Development;Research Scientist;29;3760;3;No;4;3;0;0.008926875188465104;Baixo risco
+107;Research & Development;Research Scientist;38;5329;13;Yes;4;3;0;0.00889529516824446;Baixo risco
+579;Research & Development;Research Scientist;34;2768;7;No;3;3;0;0.008841672902776406;Baixo risco
+1664;Research & Development;Healthcare Representative;36;6842;5;No;1;3;0;0.008804872692694197;Baixo risco
+1805;Human Resources;Human Resources;38;2592;11;No;2;3;0;0.00880289885736937;Baixo risco
+1627;Research & Development;Laboratory Technician;39;3069;10;No;3;3;0;0.00877894669550241;Baixo risco
+671;Research & Development;Manager;44;19513;2;Yes;4;4;0;0.00874070822559509;Baixo risco
+820;Research & Development;Manager;47;16752;26;Yes;4;2;0;0.008590954464783918;Baixo risco
+1727;Research & Development;Healthcare Representative;46;5562;10;No;2;3;0;0.00854972919819972;Baixo risco
+116;Research & Development;Laboratory Technician;51;2075;4;No;4;3;0;0.008502199998970884;Baixo risco
+1707;Research & Development;Research Scientist;24;4401;5;No;3;3;0;0.008415745106306842;Baixo risco
+984;Sales;Sales Executive;35;7823;10;No;4;3;0;0.008385027610270143;Baixo risco
+1976;Research & Development;Research Scientist;42;4332;20;No;3;3;0;0.008294221524177036;Baixo risco
+543;Research & Development;Manufacturing Director;52;7969;5;Yes;3;3;0;0.008238716011451883;Baixo risco
+1192;Research & Development;Laboratory Technician;29;3131;10;No;4;3;0;0.008132896535634752;Baixo risco
+408;Research & Development;Manufacturing Director;51;5482;4;No;2;3;0;0.008044554355736191;Baixo risco
+1888;Research & Development;Manufacturing Director;45;5906;9;No;4;2;0;0.007950061239127268;Baixo risco
+1971;Research & Development;Healthcare Representative;43;7510;10;No;3;3;0;0.007700505797094081;Baixo risco
+96;Research & Development;Research Scientist;32;6220;10;No;2;3;0;0.007681803576702193;Baixo risco
+653;Sales;Sales Executive;31;5460;7;No;4;4;0;0.007662954975603582;Baixo risco
+112;Research & Development;Manufacturing Director;56;7260;6;No;4;2;0;0.007587973548856016;Baixo risco
+1689;Research & Development;Healthcare Representative;53;7005;4;No;4;3;0;0.007575844196135352;Baixo risco
+307;Sales;Sales Executive;38;10609;16;No;3;2;0;0.0075031997072125215;Baixo risco
+1047;Sales;Sales Executive;34;9725;15;No;4;2;0;0.0074227825697576666;Baixo risco
+1191;Research & Development;Manager;56;19943;5;No;1;3;0;0.007373687047194884;Baixo risco
+683;Research & Development;Research Scientist;34;2691;10;No;4;2;0;0.0072304289230018335;Baixo risco
+380;Research & Development;Research Director;37;13603;5;Yes;4;3;0;0.007220536464539964;Baixo risco
+867;Research & Development;Manufacturing Director;52;13826;9;No;4;3;0;0.007153389454750523;Baixo risco
+460;Research & Development;Manufacturing Director;37;6347;6;No;4;2;0;0.007128444271478575;Baixo risco
+1999;Research & Development;Research Scientist;41;2782;5;No;4;3;0;0.007104535340791547;Baixo risco
+1696;Research & Development;Laboratory Technician;34;3986;15;No;4;4;0;0.007069111368886491;Baixo risco
+840;Sales;Sales Executive;49;7654;9;No;4;4;1;0.006989851609239043;Baixo risco
+275;Research & Development;Manufacturing Director;49;6804;7;Yes;4;3;0;0.006931799623906409;Baixo risco
+361;Sales;Sales Executive;38;5249;8;No;4;3;0;0.006918525560885582;Baixo risco
+77;Research & Development;Manufacturing Director;37;5993;7;No;3;4;0;0.006792793860960364;Baixo risco
+1334;Research & Development;Manager;42;17861;20;Yes;3;2;0;0.006777232134690049;Baixo risco
+845;Research & Development;Manufacturing Director;35;10221;8;No;3;4;0;0.006457785251775645;Baixo risco
+1245;Research & Development;Manufacturing Director;54;10502;5;No;3;1;0;0.00645718345645877;Baixo risco
+1038;Sales;Manager;52;19845;32;No;4;3;1;0.00639563842506669;Baixo risco
+1867;Research & Development;Research Director;48;19665;22;No;2;3;0;0.006358570445104038;Baixo risco
+1280;Sales;Manager;46;18789;11;No;2;3;0;0.006352084218913467;Baixo risco
+288;Research & Development;Healthcare Representative;46;9396;4;No;1;3;0;0.006286407332320047;Baixo risco
+1026;Research & Development;Manufacturing Director;39;12742;21;No;4;3;0;0.006114143430646102;Baixo risco
+1621;Research & Development;Research Scientist;35;5208;16;No;1;3;0;0.006070336372611748;Baixo risco
+195;Sales;Sales Executive;32;4668;8;No;4;4;0;0.00602093889075326;Baixo risco
+990;Sales;Sales Executive;36;5079;7;No;4;3;0;0.006020735776770406;Baixo risco
+689;Research & Development;Manufacturing Director;37;9434;10;No;3;3;0;0.0059670557416092495;Baixo risco
+1228;Research & Development;Manufacturing Director;46;7379;6;No;4;2;0;0.005797177857597222;Baixo risco
+1869;Sales;Sales Executive;46;7314;8;No;2;3;1;0.005651669109673455;Baixo risco
+98;Research & Development;Manufacturing Director;31;4424;11;No;4;3;0;0.005642728984102762;Baixo risco
+182;Sales;Sales Executive;39;5902;15;No;3;4;0;0.005633921749376207;Baixo risco
+1071;Research & Development;Research Scientist;56;2942;5;No;3;3;0;0.005631425781527079;Baixo risco
+1238;Research & Development;Research Scientist;33;2781;14;No;4;3;0;0.005511625612150868;Baixo risco
+776;Sales;Manager;52;16856;34;No;1;4;0;0.005479718264356359;Baixo risco
+762;Research & Development;Healthcare Representative;56;11103;10;No;4;2;0;0.005449676417816574;Baixo risco
+308;Research & Development;Manufacturing Director;31;4345;5;No;3;3;0;0.005442537557236822;Baixo risco
+1097;Research & Development;Research Scientist;28;3660;8;No;3;4;0;0.005430974435942506;Baixo risco
+1824;Sales;Manager;58;16291;16;No;2;2;0;0.005425676977568227;Baixo risco
+84;Research & Development;Manager;55;14756;5;Yes;3;3;0;0.005412955170704717;Baixo risco
+83;Research & Development;Healthcare Representative;36;10096;17;No;3;3;0;0.00538262298047299;Baixo risco
+1658;Research & Development;Research Scientist;34;5433;11;No;2;3;0;0.005377659788166899;Baixo risco
+94;Research & Development;Research Scientist;29;2703;5;No;2;3;0;0.005351112617131277;Baixo risco
+1088;Research & Development;Healthcare Representative;38;8823;19;No;3;2;0;0.005312216175986892;Baixo risco
+369;Research & Development;Healthcare Representative;25;4000;6;No;1;3;0;0.005233543901287585;Baixo risco
+138;Research & Development;Research Scientist;34;4809;16;No;3;3;0;0.005222645448468995;Baixo risco
+296;Research & Development;Research Director;51;12490;10;No;2;1;0;0.005218875820241509;Baixo risco
+1770;Research & Development;Research Director;55;19038;1;No;1;3;0;0.005201026931929972;Baixo risco
+377;Research & Development;Research Scientist;28;2070;5;No;4;2;0;0.005197818006101713;Baixo risco
+23;Sales;Manager;53;15427;25;No;4;3;0;0.005186349303500238;Baixo risco
+1085;Research & Development;Research Scientist;41;3376;10;No;3;3;0;0.005180307539811613;Baixo risco
+1288;Research & Development;Manager;44;19190;25;No;1;2;0;0.0051412106445056826;Baixo risco
+1217;Research & Development;Research Director;46;19081;4;No;2;3;0;0.0051177068155386155;Baixo risco
+1774;Sales;Sales Executive;34;4001;15;Yes;3;3;0;0.005109735719378876;Baixo risco
+520;Research & Development;Research Director;43;14336;25;No;2;3;0;0.005088070656587798;Baixo risco
+830;Research & Development;Manufacturing Director;32;6162;14;No;3;3;0;0.005043269979606601;Baixo risco
+1408;Human Resources;Manager;42;16799;20;No;1;3;0;0.0048718546568216935;Baixo risco
+1655;Research & Development;Research Director;49;16413;4;No;2;3;0;0.004780104388367667;Baixo risco
+500;Sales;Sales Executive;51;4936;7;No;4;2;0;0.004778448151840841;Baixo risco
+1013;Research & Development;Manufacturing Director;54;10739;10;No;3;3;0;0.004763309861382963;Baixo risco
+727;Research & Development;Research Director;32;11159;7;No;4;3;0;0.004681400583631694;Baixo risco
+1375;Research & Development;Healthcare Representative;40;6377;12;No;3;3;0;0.004673064939129815;Baixo risco
+1474;Research & Development;Research Scientist;40;2345;3;No;3;4;0;0.004639953458714751;Baixo risco
+1771;Research & Development;Research Scientist;33;3055;9;No;2;2;0;0.004633956125681647;Baixo risco
+1263;Research & Development;Research Director;48;18265;1;No;4;4;0;0.004603227360671934;Baixo risco
+1382;Research & Development;Research Scientist;38;2610;4;No;3;3;0;0.004581602120075367;Baixo risco
+40;Research & Development;Healthcare Representative;44;6465;4;Yes;4;4;0;0.004563347555819882;Baixo risco
+824;Research & Development;Research Scientist;29;2700;10;No;3;3;0;0.004521854358856742;Baixo risco
+1578;Sales;Manager;55;19586;36;No;4;3;0;0.004516670862754596;Baixo risco
+253;Research & Development;Manager;40;19033;20;No;3;3;0;0.004488515399759546;Baixo risco
+373;Research & Development;Laboratory Technician;36;3210;15;No;4;3;0;0.004476950831510673;Baixo risco
+2016;Sales;Sales Executive;32;10422;14;No;4;3;0;0.0044555531196674315;Baixo risco
+1397;Research & Development;Healthcare Representative;39;10920;6;No;3;3;0;0.004433613495594711;Baixo risco
+612;Research & Development;Research Director;33;16184;6;No;3;3;0;0.004342957996804742;Baixo risco
+1666;Research & Development;Research Director;43;17603;14;No;3;3;0;0.004229179585409991;Baixo risco
+1283;Research & Development;Manufacturing Director;59;10512;9;No;4;2;0;0.004177198743451789;Baixo risco
+1670;Sales;Sales Executive;33;5505;6;No;4;3;0;0.004144475179853043;Baixo risco
+1295;Research & Development;Healthcare Representative;44;7978;10;No;4;3;1;0.004139546949387598;Baixo risco
+464;Research & Development;Manufacturing Director;35;8095;16;No;2;3;0;0.004108824857387986;Baixo risco
+1712;Research & Development;Healthcare Representative;45;10748;23;No;3;2;0;0.004094755540126359;Baixo risco
+1676;Sales;Manager;47;15972;3;No;2;3;0;0.004045697719481719;Baixo risco
+1096;Research & Development;Manufacturing Director;55;10976;3;No;2;3;0;0.0040344071060442795;Baixo risco
+1934;Research & Development;Research Scientist;47;5467;8;No;2;4;0;0.004002293358646224;Baixo risco
+1115;Research & Development;Research Scientist;34;2979;0;No;4;3;0;0.00397009468201369;Baixo risco
+1900;Research & Development;Manager;48;17174;22;No;4;3;0;0.0038764150188242866;Baixo risco
+1728;Research & Development;Manufacturing Director;35;6883;7;No;3;3;0;0.0037603183322376475;Baixo risco
+1018;Research & Development;Manufacturing Director;26;5472;8;No;4;3;0;0.0037392622640747713;Baixo risco
+1995;Sales;Sales Executive;38;4440;15;No;2;3;0;0.003688612477625108;Baixo risco
+140;Human Resources;Manager;59;18844;3;No;4;3;0;0.003635628645859832;Baixo risco
+385;Research & Development;Research Director;50;19144;10;No;2;2;0;0.003635053963763724;Baixo risco
+551;Research & Development;Healthcare Representative;42;4523;6;No;4;4;0;0.0035570011704606406;Baixo risco
+1941;Research & Development;Research Director;49;19161;5;No;4;3;0;0.0035397128411651666;Baixo risco
+319;Research & Development;Manager;42;19232;22;No;4;3;0;0.0034849244532854846;Baixo risco
+807;Research & Development;Healthcare Representative;40;4244;8;No;2;3;0;0.0034496506090675103;Baixo risco
+1007;Research & Development;Manufacturing Director;46;10845;8;No;3;3;0;0.003424275572036923;Baixo risco
+1698;Research & Development;Laboratory Technician;33;2028;14;No;2;3;0;0.0034116356015630104;Baixo risco
+26;Research & Development;Manufacturing Director;24;4011;4;No;3;2;0;0.003393543759245263;Baixo risco
+1336;Research & Development;Manager;55;19187;19;No;3;3;0;0.0033574877286211106;Baixo risco
+1845;Sales;Sales Executive;45;5154;8;No;3;4;0;0.0033241634128493504;Baixo risco
+1940;Research & Development;Research Scientist;38;4771;5;No;4;4;0;0.0033163323876310197;Baixo risco
+1830;Research & Development;Research Scientist;54;6854;7;No;4;2;0;0.0032953811863304333;Baixo risco
+1955;Research & Development;Healthcare Representative;32;6667;5;No;4;3;0;0.003285107227449343;Baixo risco
+996;Research & Development;Laboratory Technician;45;2270;5;No;4;3;0;0.003276530925114128;Baixo risco
+438;Sales;Sales Executive;31;7547;7;No;4;3;0;0.003266387064864209;Baixo risco
+1661;Research & Development;Healthcare Representative;49;13966;15;Yes;3;3;0;0.003260003306941584;Baixo risco
+303;Sales;Sales Executive;54;5940;6;No;1;3;0;0.0031790274771728577;Baixo risco
+1671;Research & Development;Research Scientist;32;5470;9;No;2;2;0;0.0031023767010603105;Baixo risco
+2015;Research & Development;Research Director;38;13206;18;No;3;3;0;0.003093904996793929;Baixo risco
+823;Research & Development;Manufacturing Director;36;5228;9;No;2;3;0;0.0030899778042049386;Baixo risco
+165;Research & Development;Healthcare Representative;58;10312;40;No;4;2;1;0.0030371876572498485;Baixo risco
+1116;Research & Development;Manager;48;16885;5;No;4;2;0;0.003002047948638758;Baixo risco
+1422;Research & Development;Research Director;54;17328;20;No;4;2;0;0.002984869477361239;Baixo risco
+131;Sales;Sales Executive;58;13872;37;No;3;2;0;0.0029799455482284287;Baixo risco
+659;Research & Development;Healthcare Representative;42;4089;10;No;4;3;0;0.002947560987989205;Baixo risco
+1799;Research & Development;Research Scientist;28;2044;5;No;4;4;0;0.002875622921878549;Baixo risco
+1383;Research & Development;Healthcare Representative;34;6687;14;No;4;4;0;0.002875602546009696;Baixo risco
+1821;Research & Development;Healthcare Representative;46;8926;9;No;2;4;1;0.002867782731569814;Baixo risco
+1344;Research & Development;Healthcare Representative;34;8500;9;No;4;2;0;0.0028377045826439747;Baixo risco
+1246;Research & Development;Research Scientist;44;2011;10;No;4;3;0;0.0028367405875306447;Baixo risco
+1697;Research & Development;Healthcare Representative;60;10883;1;No;4;4;0;0.002741478310387597;Baixo risco
+1215;Research & Development;Manager;50;17856;2;No;1;3;0;0.00271743077003252;Baixo risco
+1970;Research & Development;Healthcare Representative;33;5968;9;No;3;3;0;0.002716368579036024;Baixo risco
+391;Research & Development;Research Scientist;37;2115;17;No;4;3;0;0.0027091695750241407;Baixo risco
+850;Research & Development;Research Scientist;27;1706;0;No;4;2;0;0.0027056628294789696;Baixo risco
+1264;Research & Development;Research Director;29;16124;7;No;4;2;0;0.002681423007034915;Baixo risco
+1472;Research & Development;Research Director;53;16598;9;No;2;2;0;0.0026586924478792626;Baixo risco
+447;Research & Development;Research Director;47;18300;3;No;3;3;0;0.002647778174352522;Baixo risco
+724;Research & Development;Healthcare Representative;38;7625;9;No;4;2;0;0.002644958166387095;Baixo risco
+1117;Sales;Sales Executive;45;5593;15;No;3;3;0;0.0026288881472428614;Baixo risco
+606;Sales;Sales Executive;45;4805;8;No;2;4;0;0.0025936909314356223;Baixo risco
+771;Research & Development;Healthcare Representative;35;5093;1;No;1;4;0;0.002579937931803716;Baixo risco
+487;Research & Development;Manufacturing Director;46;5258;1;No;3;4;0;0.002533883846922726;Baixo risco
+1483;Research & Development;Research Scientist;57;4900;12;No;3;2;0;0.00249551605613175;Baixo risco
+252;Research & Development;Research Scientist;33;2756;8;No;2;3;0;0.0024930809506076967;Baixo risco
+901;Research & Development;Research Director;53;14275;12;No;4;3;0;0.002453647380053707;Baixo risco
+250;Research & Development;Manufacturing Director;53;4450;4;No;1;3;0;0.002438374338213229;Baixo risco
+258;Research & Development;Healthcare Representative;51;13734;7;No;2;3;0;0.002426528703088022;Baixo risco
+270;Research & Development;Manufacturing Director;42;5265;5;No;3;3;0;0.0024226660287809555;Baixo risco
+634;Research & Development;Healthcare Representative;38;9824;1;No;3;3;0;0.0024112047941280885;Baixo risco
+1045;Sales;Manager;45;17650;9;No;4;4;0;0.002358126706136438;Baixo risco
+1607;Research & Development;Research Scientist;32;3312;3;No;4;3;0;0.0023568170859876733;Baixo risco
+1857;Research & Development;Manufacturing Director;46;8578;9;No;4;2;0;0.0023502929053658794;Baixo risco
+259;Research & Development;Manager;52;19999;33;No;3;3;0;0.0023396811404264063;Baixo risco
+1196;Research & Development;Manufacturing Director;37;6474;14;No;4;2;0;0.0023161557036059832;Baixo risco
+386;Research & Development;Research Director;53;17584;5;Yes;3;2;0;0.0023136902039996446;Baixo risco
+1520;Research & Development;Manager;54;16032;14;No;4;3;0;0.002288844348140002;Baixo risco
+1863;Sales;Sales Executive;46;13225;19;No;1;3;0;0.002287760374696432;Baixo risco
+208;Research & Development;Manufacturing Director;29;4319;10;No;3;3;0;0.002217603073852121;Baixo risco
+574;Research & Development;Manufacturing Director;47;5070;5;No;4;3;0;0.0021755123645722956;Baixo risco
+1449;Research & Development;Laboratory Technician;40;3975;8;No;3;4;0;0.002143326704902847;Baixo risco
+1363;Research & Development;Manufacturing Director;48;7898;10;No;4;3;0;0.002136102490237955;Baixo risco
+791;Research & Development;Research Scientist;52;4258;4;No;4;3;0;0.002047623948292979;Baixo risco
+1662;Research & Development;Manufacturing Director;36;4374;3;No;3;3;0;0.0020462999356155617;Baixo risco
+139;Research & Development;Healthcare Representative;37;5163;1;No;4;4;0;0.0020055777643534687;Baixo risco
+1069;Research & Development;Research Director;46;19627;2;No;4;3;0;0.0019971519929743095;Baixo risco
+482;Research & Development;Healthcare Representative;57;6755;3;No;3;3;0;0.0019536663341609205;Baixo risco
+638;Research & Development;Research Director;49;19502;31;Yes;3;3;0;0.001854549304982677;Baixo risco
+1121;Research & Development;Manufacturing Director;28;7655;9;No;2;2;0;0.0018513928502431908;Baixo risco
+1255;Research & Development;Research Director;43;19740;8;No;4;3;0;0.0017620934051911098;Baixo risco
+1608;Research & Development;Research Director;44;19049;22;Yes;4;2;0;0.0017503666471424628;Baixo risco
+1653;Research & Development;Manufacturing Director;25;5206;7;No;3;3;0;0.0017114725133200333;Baixo risco
+36;Research & Development;Healthcare Representative;44;10248;22;No;4;3;0;0.0017086707342096167;Baixo risco
+976;Research & Development;Manager;52;17099;9;No;4;2;0;0.0016966228160382396;Baixo risco
+817;Research & Development;Research Director;33;11691;13;No;3;4;0;0.0016334013496030536;Baixo risco
+441;Research & Development;Research Scientist;30;5775;10;No;4;3;0;0.001570689108135738;Baixo risco
+950;Research & Development;Research Director;38;13582;15;No;1;3;0;0.0015108237732856563;Baixo risco
+1979;Research & Development;Research Director;31;11031;11;No;3;4;0;0.0013934860891975237;Baixo risco
+1822;Research & Development;Healthcare Representative;40;6513;5;No;4;3;0;0.0013729895621892735;Baixo risco
+1304;Sales;Sales Executive;32;6209;10;No;4;4;0;0.0013468462720590624;Baixo risco
+999;Research & Development;Research Director;41;19419;18;No;3;4;0;0.0013461830050186423;Baixo risco
+2051;Research & Development;Research Scientist;40;2001;5;No;3;3;0;0.0012722588200424975;Baixo risco
+1423;Research & Development;Research Director;58;19701;9;Yes;1;3;0;0.0012357659356017443;Baixo risco
+1665;Research & Development;Manager;54;17426;10;No;3;3;0;0.0012035553967875688;Baixo risco
+323;Sales;Manager;50;19517;7;No;4;2;0;0.0011869461958618362;Baixo risco
+1668;Research & Development;Research Scientist;38;4735;13;No;4;4;0;0.0010964159187691438;Baixo risco
+546;Research & Development;Manager;52;16555;5;No;4;1;0;0.0010772171641004694;Baixo risco
+336;Research & Development;Manager;45;19202;24;No;4;3;0;0.0010753888659503052;Baixo risco
+581;Research & Development;Manufacturing Director;31;10648;13;No;2;4;0;0.0010579324773711527;Baixo risco
+550;Research & Development;Manufacturing Director;46;4810;10;No;3;2;0;0.0010363864460904552;Baixo risco
+997;Research & Development;Research Director;50;17399;5;No;4;2;0;0.0009622262115385537;Baixo risco
+1035;Research & Development;Research Director;41;19973;21;No;3;3;0;0.0009179251176200988;Baixo risco
+1468;Research & Development;Research Director;40;13757;9;No;2;3;0;0.0009059876598300059;Baixo risco
+46;Research & Development;Research Scientist;43;2645;5;No;3;2;0;0.0008675077598523355;Baixo risco
+558;Sales;Manager;40;18041;20;No;3;3;0;0.0008127672260936519;Baixo risco
+815;Research & Development;Research Director;50;17639;4;No;3;3;0;0.0007535131700561206;Baixo risco
+1656;Research & Development;Research Director;50;13269;14;No;1;3;0;0.0007298143723725803;Baixo risco
+1572;Research & Development;Manufacturing Director;53;10169;33;No;4;3;1;0.0006340064647444336;Baixo risco
+1443;Research & Development;Research Director;47;17169;20;No;3;4;0;0.00061327660726347;Baixo risco
+254;Research & Development;Research Director;55;18722;24;No;2;3;0;0.000609282737145935;Baixo risco
+32;Research & Development;Manager;53;19094;14;No;3;2;0;0.0006041368818832352;Baixo risco
+730;Research & Development;Research Director;53;14814;5;No;3;3;0;0.0006024950392313354;Baixo risco
+352;Research & Development;Research Director;40;19436;21;No;3;3;0;0.0005848919141642083;Baixo risco
+1484;Research & Development;Healthcare Representative;49;10466;8;No;2;3;0;0.00057914737009008;Baixo risco
+1201;Research & Development;Manager;53;18606;7;No;3;3;0;0.000538038592662797;Baixo risco
+2026;Research & Development;Healthcare Representative;56;6306;13;No;3;2;0;0.000495503958001108;Baixo risco
+1635;Research & Development;Manufacturing Director;45;5770;10;No;4;3;0;0.0004947245331068732;Baixo risco
+2000;Research & Development;Research Director;47;11957;13;No;2;1;0;0.0004664394505119036;Baixo risco
+1804;Research & Development;Manufacturing Director;35;5762;7;No;4;3;0;0.0004596069812142149;Baixo risco
+1040;Sales;Sales Executive;50;6347;18;No;3;3;0;0.00043656234804625977;Baixo risco
+1630;Research & Development;Healthcare Representative;35;4148;14;No;3;3;0;0.0004353592702342889;Baixo risco
+417;Research & Development;Healthcare Representative;39;9613;18;No;4;2;0;0.0003101757939978634;Baixo risco
+262;Research & Development;Research Scientist;43;2089;5;No;4;4;0;0.00025852429523643734;Baixo risco
+1250;Research & Development;Research Director;54;17779;10;No;4;3;0;0.00015177855149888395;Baixo risco
+1424;Research & Development;Research Director;55;14732;7;No;4;4;0;5.0180601404044035e-05;Baixo risco
