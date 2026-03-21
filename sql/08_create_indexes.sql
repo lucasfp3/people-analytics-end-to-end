@@ -14,6 +14,8 @@ CREATE INDEX idx_hr_employee_id
 ON silver.hr_employee (id_colaborador);
 GO
 
+
+-- Validações
 -- SELECT
 --     i.name AS nome_indice,
 --     t.name AS nome_tabela

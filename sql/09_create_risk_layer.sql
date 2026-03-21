@@ -42,6 +42,7 @@ INTO gold.employee_risk_profile
 FROM silver.hr_employee;
 GO
 
+-- Validações
 -- SELECT
 --     classificacao_risco,
 --     COUNT(*) AS total_colaboradores
