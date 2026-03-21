@@ -42,22 +42,53 @@ Visualização e insights (Power BI)
 ```text
 data/
 ├── raw/
+│   └── hr_data.csv
 ├── processed/
-
-python/
-├── ingestion/
-├── validation/
-├── automation/
-
-sql/
-├── bronze/
-├── silver/
-├── gold/
-
-powerbi/
-├── prints/
+│   └── hr_data_clean.csv
 
 docs/
+└── dicionario_dados.md
+
+powerbi/
+└── prints/
+    ├── bronze.png
+    ├── silver.png
+    ├── gold_turnover.png
+    └── risk_profile.png
+
+python/
+├── ingestion.py
+├── load_to_sql.py
+└── analytics/
+    ├── predictive_turnover.py
+    └── outputs/
+        ├── feature_importance.csv
+        ├── model_metrics.txt
+        └── model_outputs.csv
+
+sql/
+├── 01_create_db.sql
+├── 02_create_schemas.sql.sql
+├── 03_create_bronze.sql
+├── 04_create_silver.sql
+├── 05_create_gold.sql
+├── 06_check_silver_structure.sql
+├── 07_create_view.sql
+├── 08_create_indexes.sql
+├── 09_create_risk_layer.sql
+├── 10_final_quality_checks.sql
+├── 11_create_dim_tempo.sql
+├── 12_create_dim_area.sql
+├── 13_create_dim_cargo.sql
+├── 14_create_dim_faixa_etaria.sql
+├── 15_create_dim_colaborador.sql
+├── 16_create_fato_turnover.sql
+├── 17_create_fato_headcount.sql
+├── 18_validate_star_schema.sql
+├── 19_add_foreign_keys.sql
+├── validate_bronze.sql
+├── validate_gold.sql
+└── validate_silver.sql
 
 README.md
 requirements.txt
@@ -192,6 +223,24 @@ Arquivos disponíveis em:
 
 ---
 
+## 🧩 Modelo Dimensional
+
+Além da camada analítica agregada (KPIs em Gold), o projeto também conta com um modelo dimensional para suportar análises escaláveis em BI.
+
+### Dimensões
+- dim_colaborador
+- dim_tempo
+- dim_area
+- dim_cargo
+- dim_faixa_etaria
+
+### Fatos
+- fato_turnover
+- fato_headcount
+
+Essa estrutura permite consumo analítico tanto por tabelas agregadas quanto por um modelo mais próximo de cenários corporativos de BI.
+
+---
 ## 🧠 Diferenciais do Projeto
 
 - Pipeline estruturado (Bronze / Silver / Gold)
@@ -209,15 +258,23 @@ Arquivos disponíveis em:
 ## ▶️ Como executar o projeto
 
 1. Baixar o dataset IBM HR Analytics (Kaggle)
-2. Executar o script de ingestão em Python:
-   - python ingestion.py
-3. Executar os scripts SQL na ordem:
+2. Executar o script de ingestão e tratamento:
+   - `python ingestion.py`
+3. Executar o script de carga no SQL Server:
+   - `python load_to_sql.py`
+4. Executar os scripts SQL na ordem numérica:
    - criação de database e schemas
-   - carga na camada Bronze
-   - transformação para Silver
-   - criação das tabelas Gold
-4. Conectar o Power BI ao SQL Server
-5. Utilizar as tabelas da camada Gold para construção dos dashboards
+   - camada Bronze
+   - camada Silver
+   - camada Gold
+   - validações de qualidade
+   - modelo dimensional (dimensões e fatos)
+   - foreign keys
+5. Executar o modelo preditivo:
+   - `python python/analytics/predictive_turnover.py`
+6. Importar no Power BI:
+   - tabelas analíticas da camada Gold
+   - outputs do modelo preditivo
 
 ---
 
