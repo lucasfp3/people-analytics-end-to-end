@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente
+.env
+.venv/
+
+# Dados (importante)
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/

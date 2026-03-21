@@ -1,0 +1,41 @@
+USE PeopleAnalytics;
+GO
+
+CREATE TABLE bronze.hr_raw (
+    age INT,
+    attrition VARCHAR(10),
+    businesstravel VARCHAR(50),
+    dailyrate INT,
+    department VARCHAR(50),
+    distancefromhome INT,
+    education INT,
+    educationfield VARCHAR(50),
+    employeecount INT,
+    employeenumber INT,
+    environmentsatisfaction INT,
+    gender VARCHAR(20),
+    hourlyrate INT,
+    jobinvolvement INT,
+    joblevel INT,
+    jobrole VARCHAR(100),
+    jobsatisfaction INT,
+    maritalstatus VARCHAR(30),
+    monthlyincome INT,
+    monthlyrate INT,
+    numcompaniesworked INT,
+    over18 VARCHAR(5),
+    overtime VARCHAR(10),
+    percentsalaryhike INT,
+    performancerating INT,
+    relationshipsatisfaction INT,
+    standardhours INT,
+    stockoptionlevel INT,
+    totalworkingyears INT,
+    trainingtimeslastyear INT,
+    worklifebalance INT,
+    yearsatcompany INT,
+    yearsincurrentrole INT,
+    yearssincelastpromotion INT,
+    yearswithcurrmanager INT
+);
+GO
