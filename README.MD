@@ -161,18 +161,34 @@ Isso pode indicar necessidade de revisão em:
 
 Foi desenvolvido um modelo de Machine Learning utilizando Regressão Logística para estimar a probabilidade de desligamento dos colaboradores.
 
-### Métricas:
+### 🎯 Objetivo
+Antecipar o risco de turnover e apoiar decisões estratégicas de retenção.
+
+### 📊 Métricas do modelo
 - ROC AUC: 0.81
 - Accuracy: 86%
+- Precision: 61%
+- Recall: 34%
 
-### Principais fatores de risco:
+### 🔍 Principais fatores de risco identificados
 - Cargo (Sales Representative, Laboratory Technician)
-- Horas extras
-- Frequência de viagens
-- Tempo desde última promoção
+- Realização de horas extras
+- Alta frequência de viagens
+- Tempo elevado desde a última promoção
+- Estado civil (Single)
 
-### Aplicação:
-O modelo permite identificar colaboradores com maior probabilidade de desligamento, apoiando estratégias de retenção e priorização de ações de RH.
+### 🧠 Interpretação
+O modelo demonstrou boa capacidade de discriminação entre colaboradores com maior e menor probabilidade de desligamento.
+
+Apesar de um recall mais baixo, o modelo já permite identificar padrões relevantes de risco, sendo um ponto de partida sólido para evoluções futuras com técnicas de balanceamento e tuning.
+
+### 📁 Outputs gerados
+- Probabilidade individual de turnover
+- Classificação de risco (Alto, Médio, Baixo)
+- Importância das variáveis
+
+Arquivos disponíveis em:
+`python/analytics/outputs/`
 
 ---
 
@@ -185,6 +201,8 @@ O modelo permite identificar colaboradores com maior probabilidade de desligamen
 - Camada de risco de turnover
 - Uso de view para consumo analítico
 - Validações de qualidade de dados
+- Implementação de modelo preditivo de turnover com Machine Learning
+- Integração entre camada analítica e modelo preditivo
 
 ---
 
@@ -205,9 +223,10 @@ O modelo permite identificar colaboradores com maior probabilidade de desligamen
 
 ## 🚀 Próximos Passos
 
-- Dashboard em Power BI
-- Modelo preditivo de turnover
-- Automação com agendamento
+- Aprimoramento do modelo preditivo (balanceamento de classes e tuning)
+- Deploy automatizado do pipeline
+- Integração com dados reais de RH
+- Expansão para análises temporais (histórico de eventos)
 - Deploy em ambiente cloud (GCP / Azure)
 
 ---
