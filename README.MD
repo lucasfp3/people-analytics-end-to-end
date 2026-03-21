@@ -65,6 +65,12 @@ requirements.txt
 ```
 ---
 
+## 📘 Documentação
+
+- [Dicionário de Dados](docs/dicionario_dados.md)
+
+---
+
 ## 🧱 Pipeline de Dados
 
 ### 🔹 Bronze
