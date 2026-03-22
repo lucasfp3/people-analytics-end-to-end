@@ -241,6 +241,16 @@ Além da camada analítica agregada (KPIs em Gold), o projeto também conta com 
 Essa estrutura permite consumo analítico tanto por tabelas agregadas quanto por um modelo mais próximo de cenários corporativos de BI.
 
 ---
+
+## 📐 Definição de Turnover
+
+Neste projeto, o turnover foi calculado como:
+
+Turnover = Desligamentos / Base total de colaboradores do recorte
+
+Essa abordagem foi adotada devido à ausência de dados de admissões e histórico temporal, evitando distorções causadas pelo uso de headcount ativo como denominador.
+
+---
 ## 🧠 Diferenciais do Projeto
 
 - Pipeline estruturado (Bronze / Silver / Gold)
