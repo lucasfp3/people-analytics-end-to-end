@@ -1,43 +1,75 @@
 # 📊 People Analytics End-to-End
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Data%20Warehouse-red?logo=microsoftsqlserver)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?logo=scikitlearn)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+> Um pipeline completo de dados em People Analytics — da ingestão ao insight, simulando um ambiente real corporativo.
+
+---
+
 ## 🧠 Visão Geral
-Este projeto simula uma solução completa de People Analytics, construída de ponta a ponta, com foco em ingestão, tratamento, modelagem analítica, modelagem dimensional, machine learning e visualização de indicadores estratégicos de RH.
 
-O objetivo foi demonstrar não apenas análise de dados, mas a construção de um ecossistema analítico estruturado, próximo ao contexto real de grandes empresas.
+Este projeto representa a construção de um ecossistema analítico completo, cobrindo:
+
+- Ingestão de dados  
+- Tratamento e padronização  
+- Modelagem analítica  
+- Modelagem dimensional (Star Schema)  
+- Machine Learning  
+- Visualização estratégica  
+
+A proposta não é apenas analisar dados, mas **estruturar um pipeline robusto, escalável e orientado a negócio**.
+
 ---
+
 ## 🎯 Objetivo
-Transformar dados brutos de colaboradores em informações confiáveis e acionáveis para apoiar decisões relacionadas a:
 
-- Turnover
-- Retenção de talentos
-- Estrutura organizacional
+Transformar dados brutos de colaboradores em informações acionáveis para suportar decisões de RH:
+
+- Turnover  
+- Retenção de talentos  
+- Estrutura organizacional  
+
 ---
-## 🏗️ Arquitetura
+
+## 🏗️ Arquitetura do Projeto
 
 ```text
-Fonte de dados (CSV - Kaggle)
-        ↓
-Ingestão e tratamento (Python)
-        ↓
-Armazenamento e modelagem (SQL Server)
-        ↓
-Camadas analíticas (Bronze → Silver → Gold)
-        ↓
-Modelo dimensional (Star Schema)
-        ↓
-Visualização e insights (Power BI)
-        ↓
-Modelo preditivo (Machine Learning)
+CSV (Kaggle)
+   ↓
+Python (Ingestão + Limpeza)
+   ↓
+SQL Server (Modelagem)
+   ↓
+Bronze → Silver → Gold
+   ↓
+Star Schema
+   ↓
+Power BI (Visualização)
+   ↓
+Machine Learning (Predição de Turnover)
 ```
+
 ---
-## ⚙️ Tecnologias Utilizadas
-Python (pandas, scikit-learn)
-SQL Server
-Power BI
-VSCode
-GitHub
+
+## ⚙️ Stack Tecnológica
+
+| Camada           | Tecnologia      |
+| ---------------- | --------------- |
+| Ingestão         | Python (pandas) |
+| Modelagem        | SQL Server      |
+| Análise          | Power BI        |
+| Machine Learning | scikit-learn    |
+| Desenvolvimento  | VS Code         |
+| Versionamento    | Git / GitHub    |
+
 ---
+
 ## 📂 Estrutura do Projeto
+
 data/
 ├── raw/
 │   └── hr_data.csv
@@ -70,104 +102,69 @@ sql/
 │   ├── silver.png
 │   ├── gold_turnover.png
 │   └── risk_profile.png
-├── 01_create_db.sql
-├── 02_create_schemas.sql
-├── 03_create_bronze.sql
-├── 04_create_silver.sql
-├── 05_create_gold.sql
-├── 06_check_silver_structure.sql
-├── 07_create_view.sql
-├── 08_create_indexes.sql
-├── 09_create_risk_layer.sql
-├── 10_final_quality_checks.sql
-├── 11_create_dim_tempo.sql
-├── 12_create_dim_area.sql
-├── 13_create_dim_cargo.sql
-├── 14_create_dim_faixa_etaria.sql
-├── 15_create_dim_colaborador.sql
-├── 16_create_fato_turnover.sql
-├── 17_create_fato_headcount.sql
-├── 18_validate_star_schema.sql
-├── 19_add_foreign_keys.sql
-├── 20_create_dim_hora_extra.sql
-├── 21_create_dim_frequencia_viagem.sql
-├── 22_create_dim_faixa_tempo_empresa.sql
-├── 23_create_dim_faixa_salarial.sql
-├── validate_bronze.sql
-├── validate_gold.sql
-└── validate_silver.sql
+├── scripts (01 ao 23)
+└── validações (bronze, silver, gold)
 
-README.md
-requirements.txt
-.gitignore
 ---
-## 📘 Documentação
-Dicionário de Dados
-🧱 Pipeline de Dados
-🔹 Bronze
-Dados brutos carregados diretamente do CSV.
 
-🔹 Silver
+## 📘 Pipeline de Dados
+🥉 Bronze
+Dados brutos ingeridos diretamente do CSV.
+
+🥈 Silver
 Camada tratada com:
-- padronização
-- regras de negócio
-- criação de variáveis analíticas
+- Padronização
+- Regras de negócio
+- Criação de variáveis analíticas
 
-🔹 Gold
+🥇 Gold
 Camada analítica com:
 - KPIs
-- agregações
-- tabelas prontas para BI
+- Agregações
+- Tabelas prontas para BI
+
 ---
-## 📊 Prints do Pipeline de Dados (SQL)
-Bronze
 
-Silver
-
-Gold
-
-Risk Layer
----
-## 📊 Principais Indicadores
+## 📊 Indicadores Principais
 - Headcount
-- Taxa de turnover geral
-- Turnover por área
-- Turnover por cargo
-- Turnover por faixa etária
-- Turnover por tempo de empresa
+- Taxa de Turnover
+- Turnover por área, cargo e tempo de empresa
 - Salário médio
+
 ---
-## 🔍 Principais Insights
-- Taxa geral de turnover: 16,12%
-- Área de Sales com maior turnover
-- Cargo Sales Representative lidera risco
-- Colaboradores com até 2 anos concentram maior rotatividade
-- Faixa etária mais jovem apresenta maior risco de saída
+
+## 🔍 Insights Relevantes
+- Turnover geral: 16,12%
+- Área de Sales concentra maior rotatividade
+- Cargo Sales Representative apresenta maior risco
+- Colaboradores com até 2 anos têm maior churn
+- Faixas etárias mais jovens apresentam maior saída
+
 ---
-## 🤖 Modelo Preditivo de Turnover
-# 🎯 Objetivo
 
-Antecipar o risco de desligamento e apoiar ações de retenção.
+## 🤖 Modelo Preditivo
+Objetivo
+Antecipar desligamentos e apoiar estratégias de retenção.
 
-# 📊 Métricas
-- ROC AUC: 0.81
-- Accuracy: 86%
-- Precision: 61%
-- Recall: 34%
+Métricas
+| Métrica   | Valor |
+| --------- | ----- |
+| ROC AUC   | 0.81  |
+| Accuracy  | 86%   |
+| Precision | 61%   |
+| Recall    | 34%   |
 
-# 🔍 Principais variáveis
+Principais Features
 - Cargo
 - Hora extra
 - Frequência de viagem
 - Tempo desde última promoção
 - Estado civil
----
-## 📁 Outputs
 
-python/analytics/outputs/
 ---
+
 ## 🧩 Modelo Dimensional
-Dimensões
+*Dimensões*
 - dim_colaborador
 - dim_tempo
 - dim_area
@@ -176,41 +173,65 @@ Dimensões
 - dim_hora_extra
 - dim_frequencia_viagem
 - dim_faixa_tempo_empresa
-- dim_faixa_salarial
-Fatos
+dim_faixa_salarial
+
+*Fatos*
 - fato_turnover
 - fato_headcount
----
-## 📐 Definição de Turnover
 
-Turnover = Desligamentos / Total de colaboradores no contexto analisado
 ---
-## 🧠 Diferenciais do Projeto
-- Pipeline completo (end-to-end)
+
+## Definição de Turnover
+Turnover = Desligamentos / Total de colaboradores no período analisado
+
+---
+
+## Diferenciais do Projeto
+- Pipeline completo end-to-end
 - Arquitetura Bronze / Silver / Gold
 - Modelagem dimensional (Star Schema)
 - Integração Python + SQL + Power BI
 - Modelo preditivo aplicado ao negócio
 - Camada de risco de turnover
-- Validação de dados
+- Validação de dados estruturada
+
 ---
-## ▶️ Como Executar
-Executar ingestão:
-- python ingestion.py
-Carregar no SQL:
-- python load_to_sql.py
-- Executar scripts SQL (ordem numérica)
-Rodar modelo preditivo:
-- python python/analytics/predictive_turnover.py
-- Conectar Power BI nas tabelas Gold + outputs
+
+## Como Executar
+
+*Ingestão*
+python ingestion.py
+
+*Carga no SQL Server*
+python load_to_sql.py
+
+*Executar scripts SQL (ordem numérica)*
+
+*Modelo preditivo*
+python python/analytics/predictive_turnover.py
+
+Conectar o Power BI às tabelas da camada Gold + outputs do modelo.
+
 ---
-## 🚀 Próximos Passos
-- Tuning do modelo
+
+## Outputs
+
+python/analytics/outputs/
+- feature_importance.csv
+- model_metrics.txt
+- model_outputs.csv
+
+---
+
+## Próximos Passos
+- Otimização do modelo (tuning)
 - Balanceamento de classes
 - Automação do pipeline
 - Deploy em cloud
 - Uso com dados reais
----
-## 👨‍💻 Autor
 
-Projeto desenvolvido como portfólio em Data Analytics e People Analytics.
+---
+
+## Autor
+
+Projeto desenvolvido como portfólio em Data Analytics & People Analytics.
